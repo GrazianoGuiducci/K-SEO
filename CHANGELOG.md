@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 — logiche aperte e relazione con le sorgenti
+
+- Chiarita la disponibilità al riuso delle logiche operative consegnate.
+- Spiegato il controllo d'accesso alle sorgenti con i concetti più profondi del modello D-ND, conservando attribuzione e licenza della distribuzione.
+
 ## 1.0.0 — prima consegna del nucleo
 
 - Ingresso per il proprietario e per l'entità ricevente, con avvio italiano e inglese.

@@ -24,4 +24,4 @@ Il kernel ricevuto può evolvere attraverso il proprio lavoro. Un aggiornamento 
 
 ## Licenza
 
-La distribuzione usa [Apache-2.0](../LICENSE). [NOTICE](../NOTICE) e [RIGHTS](RIGHTS.md) conservano attribuzione e relazione con le sorgenti: il pacchetto consegna K-SEO; le sorgenti private delle metacapacità mantengono i propri owner e diritti.
+La distribuzione usa [Apache-2.0](../LICENSE). [NOTICE](../NOTICE) e [RIGHTS](RIGHTS.md) conservano attribuzione e relazione con le sorgenti: le logiche operative consegnate sono aperte al riuso; l'accesso ai repository con i concetti più profondi del modello resta curato dal loro autore.

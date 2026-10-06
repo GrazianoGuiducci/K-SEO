@@ -5,10 +5,11 @@ K-SEO is a MAIOS product by Graziano Guiducci.
 This distribution contains the K-SEO kernel, its local competence knowledge,
 documentation and optional local reference helper.
 
-The generative source knowledge of KA, FDLA, Meta_Skill and the related
-source projects remains attributed to its respective authors and owners.
-The private source repositories and their material are not distributed here.
+The operating logic adapted from the D-ND model, KA, FDLA and Meta_Skill
+is made available for reuse in this kernel, with its source attribution.
 Functional adaptations included in K-SEO are described in docs/REUSE_MAP.md.
+Access to separate source repositories containing deeper conceptual material
+remains controlled by their owners. Those repositories are not distributed here.
 
 The Apache-2.0 license applies to the materials included in this distribution.
 It does not change the rights or licenses of separate source projects and

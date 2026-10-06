@@ -39,5 +39,5 @@
     "src/kseo/__main__.py"
   ],
   "exclude": "private instances, credentials, caches, development tests, historical handoffs and unlisted workspace files",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
