@@ -65,3 +65,12 @@ Il sito resta il nucleo controllabile. Piattaforme, articoli, profili, repositor
 La prima implementazione deve quindi provare non soltanto crawl/indexing ma almeno una relazione di **machine comprehension**: K-SEO deve poter individuare un'informazione importante che un LLM potrebbe recuperare in modo ambiguo, incompleto o debole, formare una correzione source-faithful, applicarla sul sito se autorizzato e verificare poi sia lo stato live sia le evidenze successive disponibili.
 
 Il linguaggio pubblico resta semplice. Termini come KA, FDLA, entity graph, retrieval o competence formation non sono prerequisiti per usare il prodotto.
+
+## Quadro concettuale pre-rifondazione — 6 ottobre 2026
+
+Nuova sorgente selezionata:
+`work/KSEO_CONCEPTUAL_FRAME_PRE_REFOUNDATION_2026-10-06.md`.
+
+Questo quadro nasce dalla correzione dell'operatore contro la riduzione di LLM a crawler/provider e contro una rifondazione prematura. Distingue LLM come **entità cognitive sintetiche** dalla **Projectable Presence/Entity di K-SEO**, definisce il kernel come prodotto germinale capace di formare il proprio futuro e organizza Boot, KA, FDLA, Meta_Skill, continuum, routing, presenza e competenze operative come pacchetto persistente aperto.
+
+Fino alla rifondazione successiva, quando questa sorgente confligge con la precedente interpretazione LLM-first del branch, il quadro pre-rifondazione governa il movimento. README e PRODUCT_INTENT non sono ancora stati riallineati a questa nuova risultante.
