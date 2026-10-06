@@ -2,11 +2,51 @@
 
 ## Direzione scelta
 
-K-SEO deve dare a chi possiede un sito un gestore che comprende ciò che il sito offre, a chi si rivolge e quali informazioni aiutano le persone e i sistemi AI a trovarlo, comprenderlo e usarlo. Dopo una prima configurazione automatica, il gestore continua a osservare e migliorare la situazione senza richiedere ogni volta una nuova consegna.
+K-SEO è **LLM-first**. Parte dalla direzione scelta dall'operatore: nel prossimo campo della scoperta online, una parte crescente della relazione tra fonte e persona sarà mediata da LLM e agenti che cercano su siti, piattaforme e altre fonti, confrontano ciò che trovano, formano una risposta, consigliano una scelta o compiono un'azione per l'utente finale.
+
+Questa è una direzione di prodotto e un orizzonte da osservare, non la dichiarazione che la ricerca umana sia già scomparsa o che tutti i sistemi si comportino allo stesso modo. L'umano resta il beneficiario, il proprietario dell'intento e spesso il decisore finale. Cambia però il destinatario intermedio: **l'informazione deve poter essere compresa e usata correttamente anche da un modello che decide che cosa recuperare, quale fonte considerare pertinente, che cosa citare, come confrontarlo e quando suggerirlo**.
+
+K-SEO deve quindi dare a chi possiede un sito un gestore che comprende ciò che il sito offre, a chi si rivolge e quali informazioni permettono a persone, motori, LLM e agenti di trovarlo, comprenderlo e usarlo. Dopo una prima configurazione automatica, il gestore continua a osservare e migliorare la situazione senza richiedere ogni volta una nuova consegna.
 
 La direzione è stata scelta da Graziano Guiducci il 6 ottobre 2026. La formazione procede tra ChatGPT, GPT-Pro e Codex usando le competenze e i kernel già disponibili. Il prodotto entrerà nel catalogo MAIOS. Queste intenzioni sono determinate; la forma concreta resta da sviluppare attraverso conoscenza e lavoro.
 
-Il prodotto si applica principalmente ai siti. La relazione con contenuti esterni, reputazione, canali pubblici, fonti citate e risultati dell'attività può diventare pertinente quando cambia realmente ciò che il gestore comprende o rende possibile.
+Il prodotto si applica principalmente ai siti, perché il sito è la superficie controllabile in cui identità, offerta, fonti, informazioni e azioni possono essere mantenute con continuità. Ma il campo che un LLM ricostruisce è distribuito: può includere articoli, piattaforme, profili, repository, recensioni, notizie, documentazione e altre fonti esterne. Quando queste cambiano materialmente la rappresentazione dell'entità, K-SEO deve saperle osservare e collegare al nucleo del sito senza appropriarsi delle competenze o degli effetti di altri owner.
+
+### Il nuovo oggetto della SEO
+
+La SEO classica tende a osservare una catena come:
+
+~~~text
+query -> indice/ranking -> risultato -> clic -> sito
+~~~
+
+K-SEO deve poter operare anche sulla catena mediata da LLM:
+
+~~~text
+intento dell'utente
+-> LLM/agente formula o espande la ricerca
+-> recupera fonti da più superfici
+-> interpreta entità, affermazioni, prove e alternative
+-> seleziona ciò che ritiene utile/affidabile
+-> sintetizza, cita, consiglia o agisce
+-> l'utente riceve il risultante
+-> eventuale visita/azione/risultato per l'attività
+~~~
+
+Il lavoro non è “scrivere per convincere il bot” in modo artificiale. È rendere la fonte **semanticamente forte**: chiara sull'entità e sull'offerta, specifica, verificabile, aggiornata, coerente tra superfici, facile da attribuire, utile nelle comparazioni e capace di fornire all'LLM il materiale necessario per una risposta o un'azione corretta.
+
+Per questo K-SEO deve comprendere non soltanto parole chiave, pagine e link ma anche:
+
+- **entity clarity** — chi/che cosa è la fonte e quali relazioni la definiscono;
+- **claim clarity** — che cosa afferma davvero, con quali limiti e condizioni;
+- **evidence/provenance** — perché una risposta dovrebbe considerarla affidabile o citabile;
+- **answerability** — se le informazioni necessarie a una domanda reale sono presenti e recuperabili;
+- **comparison readiness** — se differenze, requisiti, prezzi/condizioni quando pubblici, capacità e limiti sono distinguibili senza inferenze arbitrarie;
+- **freshness** — quali informazioni sono correnti e quali appartengono a un altro periodo/versione;
+- **machine legibility** — struttura semantica, accessibilità e segnali che aiutano retrieval e agenti senza creare contenuto parallelo nascosto;
+- **actionability** — se un agente può comprendere e, quando autorizzato, usare correttamente i percorsi d'azione disponibili.
+
+Contenuti esterni, reputazione, canali pubblici e fonti citate diventano quindi parte del campo osservabile quando cambiano ciò che un LLM può recuperare o concludere. Le azioni sulle superfici esterne restano ai rispettivi owner e alle relative autorità.
 
 ## Conoscenza e capacità da rendere operative
 

@@ -1,8 +1,25 @@
 # K-SEO
 
-Un gestore AI che conosce il tuo sito e continua a curarne la presenza online, mentre persone e sistemi AI cercano, confrontano informazioni e scelgono cosa fare.
+Un gestore AI che prepara e mantiene il tuo sito perché **LLM e agenti — e le persone che li interrogano — possano trovarlo, comprenderlo, citarlo, consigliarlo e usarlo**.
 
 K-SEO è un prodotto in formazione. L'obiettivo è fornire, dopo una prima configurazione il più possibile automatica, un'entità capace di comprendere il sito, individuare interventi utili, realizzarli con gli strumenti e i permessi disponibili, osservare le conseguenze e migliorare il proprio modo di lavorare.
+
+## Direzione LLM-first
+
+K-SEO nasce dalla direzione scelta dall'operatore: una quota crescente della scoperta online sarà mediata da LLM e agenti che cercano sul web, sulle piattaforme e in altre fonti, ricompongono le informazioni e restituiscono una risposta o un'azione all'utente finale. L'umano resta il beneficiario e il decisore finale; il **primo destinatario operativo dell'informazione può però essere un sistema AI**.
+
+Questo cambia il lavoro rispetto alla SEO centrata soltanto su query, ranking e clic. K-SEO deve aiutare una fonte a essere:
+
+- raggiungibile e recuperabile;
+- inequivocabile su chi è, cosa offre e in quali condizioni;
+- specifica e abbastanza completa da rispondere a domande reali;
+- attribuibile e sostenuta da fonti/evidenze riconoscibili;
+- confrontabile senza perdere il proprio significato;
+- aggiornata e temporalmente qualificata;
+- citabile e collegabile;
+- utilizzabile dagli agenti quando devono navigare o compiere un'azione.
+
+Non significa creare testo nascosto o “per bot”. La stessa verità deve restare utile e convincente per una persona e diventare più facile da recuperare, disambiguare e usare per un modello.
 
 Il lavoro comprende la SEO tecnica, la qualità e chiarezza dei contenuti, la reperibilità delle informazioni, la presenza nelle risposte AI e la relazione con risultati utili per chi possiede il sito. Il linguaggio del prodotto deve rendere tutto questo comprensibile anche a chi non conosce le nostre architetture interne.
 

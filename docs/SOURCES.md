@@ -71,3 +71,24 @@ Fonti di ricerca da mantenere distinte dalla documentazione provider:
 - *Marketing Science*, *ChatGPT Referrals to E-Commerce Websites: How Do LLMs Compare Against Traditional Channels?*, DOI 10.1287/mksc.2025.0489 (2026).
 
 Confine operativo importante: le superfici UI documentate per i nuovi report AI non dimostrano automaticamente parità con le API pubbliche. Fino a esercizio reale, K-SEO deve distinguere dati API, osservazione browser/UI, export e input manuale.
+
+## Direzione LLM-first: stato della prova — 6 ottobre 2026
+
+L'operatore seleziona come orizzonte di prodotto una scoperta online sempre più mediata da LLM e agenti. **Le fonti correnti supportano la direzione, non la formulazione assoluta “a breve ci saranno solo LLM”.** K-SEO conserva questa differenza perché la previsione temporale non deve diventare un falso requisito tecnico.
+
+Evidenze correnti che rendono la direzione già operativa:
+
+- Google dichiara che le preferenze degli utenti si stanno spostando rapidamente verso esperienze di AI generativa per trovare informazioni e collega la SEO corrente alle proprie esperienze AI.
+- Bing parla esplicitamente di visibilità nell'“AI web” e misura citazioni, intenti, topic e citation share nelle risposte AI.
+- ChatGPT Search ricerca sul web e restituisce risposte con fonti/citazioni; OpenAI fornisce ai publisher controlli di discovery tramite OAI-SearchBot e referral attribuibili.
+- OpenAI e web.dev documentano già interazione agentica con i siti attraverso struttura semantica/accessibilità e controlli interattivi riconoscibili.
+
+Da queste fonti K-SEO può assumere già oggi che **l'LLM è un destinatario intermedio reale**, senza assumere che sia l'unico canale. Questo giustifica una progettazione LLM-first mantenendo compatibilità e valore umano.
+
+Fonti pertinenti:
+
+- [Google — Generative AI optimization guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
+- [Bing — AI Visibility Insights](https://blogs.bing.com/search/2026/6/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare/)
+- [OpenAI — ChatGPT Search](https://help.openai.com/en/articles/9237897-chatgpt-search)
+- [OpenAI — Publishers and developers FAQ](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq)
+- [web.dev — Agent-friendly websites](https://web.dev/articles/ai-agent-site-ux)

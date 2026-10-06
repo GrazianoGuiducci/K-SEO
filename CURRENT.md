@@ -38,3 +38,30 @@ Il prossimo movimento non è costruire una dashboard né fissare subito un SaaS.
 Restano aperti, senza bloccare la progettazione: licenza K-SEO, primo sito controllato, host iniziale, prima fonte autenticata, primo controller di scrittura/pubblicazione, scheduler e forma economica.
 
 Questa sezione descrive una proposta formata sul branch, non una decisione già integrata nel `main` e non una capacità K-SEO già esercitata.
+
+## Direzione LLM-first selezionata — 6 ottobre 2026
+
+Graziano ha reso centrale una relazione che il primo giro trattava ancora come una delle possibilità: **K-SEO deve nascere per il campo in cui LLM e agenti diventano sempre più spesso l'intermediario tra le fonti online e l'operatore finale**.
+
+La previsione “a breve solo LLM” resta un orizzonte dell'operatore da osservare, non un fatto esterno già provato. Il prodotto però può e deve essere progettato ora per questa transizione.
+
+La risultante del branch cambia quindi da “SEO + AI/agentic visibility” a:
+
+~~~text
+fonte/sito reale
++ campo pubblico distribuito recuperabile
++ chiarezza di entità / offerta / claim / prova / condizioni / freschezza
++ accessibilità e leggibilità per retrieval e agenti
++ evidenza provider-specifica
+-> LLM può recuperare e comprendere la fonte
+-> può attribuirla / citarla / confrontarla
+-> può raccomandarla o usarla quando pertinente
+-> operatore finale riceve una risposta/azione migliore
+-> conseguenze ritornano a K-SEO
+~~~
+
+Il sito resta il nucleo controllabile. Piattaforme, articoli, profili, repository, recensioni, notizie e altre fonti diventano campo osservabile quando possono cambiare la rappresentazione che un LLM ricostruisce. Gli effetti su quelle superfici restano ai rispettivi owner (per esempio Social Kernel).
+
+La prima implementazione deve quindi provare non soltanto crawl/indexing ma almeno una relazione di **machine comprehension**: K-SEO deve poter individuare un'informazione importante che un LLM potrebbe recuperare in modo ambiguo, incompleto o debole, formare una correzione source-faithful, applicarla sul sito se autorizzato e verificare poi sia lo stato live sia le evidenze successive disponibili.
+
+Il linguaggio pubblico resta semplice. Termini come KA, FDLA, entity graph, retrieval o competence formation non sono prerequisiti per usare il prodotto.

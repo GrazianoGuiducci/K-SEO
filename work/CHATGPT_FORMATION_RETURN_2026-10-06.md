@@ -6,15 +6,39 @@ Status: product/knowledge formation candidate; no runtime, installation or site 
 
 ## Resultant
 
+### Operator correction — LLM-mediated discovery is central
+
+After the first formation pass, the operator selected a stronger product direction: K-SEO should be **LLM-first**.
+
+The working horizon is that an increasing share of online discovery will be mediated by LLMs and agents. They search sites, platforms and other public sources, reconstruct the object for an end user, compare alternatives, cite or recommend sources and increasingly interact with websites on the user's behalf.
+
+This horizon is a product direction, not a verified claim that human search will disappear on a fixed near-term date. Current provider evidence supports rapid movement toward generative search and agentic interaction, while the exact share, timing and behavior remain provider- and context-dependent.
+
+The consequence is constitutive: K-SEO is not primarily optimizing a page for a ranking position. It is strengthening the **information source an LLM can recover and use**.
+
+The immediate machine receiver needs enough public truth to answer questions such as:
+
+- What is this entity/product/service?
+- Who is it for?
+- What does it actually do?
+- What is distinctive or comparable?
+- What evidence supports the important claims?
+- What are the conditions, limits, versions and dates?
+- Which source is authoritative?
+- What can the user do next?
+- Can an agent perform that action reliably?
+
+The site remains the controllable canonical nucleus, but the LLM may reconstruct the answer from a distributed public field: the site, articles, profiles, repositories, platforms, reviews, news and other cited sources. K-SEO therefore observes cross-surface coherence while leaving external-public effects to their proper owners.
+
 K-SEO should not be formed as a collection of GEO tricks or as a rank tracker with an AI label.
 
 Product relation:
 
-> K-SEO is a continuing AI manager for a website's discoverability, intelligibility and usability across human search and agentic systems. It learns the site and the business, obtains evidence from the sources actually available, chooses useful interventions, carries authorized changes through the real publication path, verifies what became live, observes later consequences and improves its method.
+> K-SEO is a continuing LLM-first manager of a website's public information field. It makes the site's real identity, offer, evidence and actions easier for search systems, LLMs and agents to retrieve, understand, attribute, compare, recommend and use for the final operator, while keeping the same information useful to people. It learns the site and business, observes the wider source field, carries authorized interventions through real controllers, reads consequences and improves its method.
 
 Simple product language:
 
-> K-SEO knows your site and keeps improving how people and AI systems can find it, understand it and use it.
+> K-SEO prepares and keeps improving your site so AI systems can find the right information, understand what you really offer and recommend or use it correctly for the people asking.
 
 This keeps ordinary SEO as a foundation while admitting AI search, citations, agent browsing and later agentic transactions without pretending they are one metric or one provider.
 
