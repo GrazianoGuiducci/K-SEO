@@ -33,3 +33,41 @@ Codex ha riportato nell'[intento](PRODUCT_INTENT.md#conoscenza-e-capacit%C3%A0-d
 ## Ricerca successiva
 
 Il primo giro lascia aperti altri fornitori, protocolli e strumenti per agenti, studi empirici, casi di adozione, integrazioni con siti e CMS, misure dei risultati, costi e modalità di distribuzione. Occorre distinguere documentazione, affermazioni commerciali, risultati sperimentali e ipotesi. Una conoscenza utile deve cambiare il sapere o il metodo che la userà, oltre ad aggiungere un riferimento.
+
+## Secondo giro ChatGPT — 6 ottobre 2026
+
+Il contributo completo è in [work/CHATGPT_FORMATION_RETURN_2026-10-06.md](../work/CHATGPT_FORMATION_RETURN_2026-10-06.md). Questo giro amplia il primo senza sostituirne le fonti.
+
+Relazioni che cambiano il prodotto:
+
+- Google tratta AEO/GEO come prosecuzione della SEO per le proprie funzioni AI e dichiara di non usare `llms.txt` come requisito della Ricerca AI; distingue inoltre report prestazioni AI e controllo di inclusione in Search Console.
+- Bing espone misure AI proprie — citazioni, intenti, topic, citation share e confronti — che non sono equivalenti alle metriche Google.
+- OpenAI, Anthropic e Perplexity distinguono ruoli diversi per crawler di ricerca, training e richieste avviate dall'utente; K-SEO deve conservare il perimetro del singolo provider.
+- L'usabilità agentica rende pertinenti HTML semantico, accessibilità e controlli azionabili; protocolli transazionali come UCP restano un orizzonte situato, non un requisito universale.
+- La letteratura GEO recente va trattata come ricerca sperimentale: engine, lingua, query e retrieval cambiano i risultati; non è una base sufficiente per una metrica causale universale.
+
+Nuove fonti primarie/provider:
+
+- [Google — Generative AI optimization guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
+- [Google Search Console — Generative AI performance](https://support.google.com/webmasters/answer/16984139)
+- [Google Search Console — Generative AI inclusion control](https://support.google.com/webmasters/answer/16908024)
+- [Google Search Console API](https://developers.google.com/webmaster-tools/v1/api_reference_index)
+- [Google — Robots meta and snippet controls](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag)
+- [web.dev — Agent-friendly websites](https://web.dev/articles/ai-agent-site-ux)
+- [OpenAI — Crawlers](https://developers.openai.com/api/docs/bots)
+- [OpenAI — Publishers and developers FAQ](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq)
+- [Bing — AI Performance](https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/)
+- [Bing — AI Visibility Insights](https://blogs.bing.com/search/2026/6/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare/)
+- [Bing Webmaster API](https://learn.microsoft.com/en-us/bingwebmaster/)
+- [IndexNow](https://www.indexnow.org/documentation)
+- [Anthropic — crawler controls](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler)
+- [Perplexity — crawler controls](https://docs.perplexity.ai/docs/resources/perplexity-crawlers)
+- [Universal Commerce Protocol](https://ucp.dev/)
+
+Fonti di ricerca da mantenere distinte dalla documentazione provider:
+
+- Chen et al., *Generative Engine Optimization: How to Dominate AI Search*, arXiv:2509.08919 (2025).
+- Martinez, *Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)*, arXiv:2607.14035 (2026).
+- *Marketing Science*, *ChatGPT Referrals to E-Commerce Websites: How Do LLMs Compare Against Traditional Channels?*, DOI 10.1287/mksc.2025.0489 (2026).
+
+Confine operativo importante: le superfici UI documentate per i nuovi report AI non dimostrano automaticamente parità con le API pubbliche. Fino a esercizio reale, K-SEO deve distinguere dati API, osservazione browser/UI, export e input manuale.
