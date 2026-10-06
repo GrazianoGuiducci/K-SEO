@@ -1,13 +1,19 @@
-# Entrare nel progetto K-SEO
+# Entrare in K-SEO
 
-K-SEO è il prodotto selezionato dall'operatore: un gestore della nuova SEO, principalmente per siti, con configurazione iniziale automatica e lavoro autonomo attraverso capacità reali. Il progetto è nella prima fase conoscitiva e di formazione.
+K-SEO prepara e mantiene la relazione fra una fonte e le entità cognitive sintetiche che cercano, comprendono, valutano, consigliano e agiscono per un operatore finale. Il kernel può formare nuove capacità e nuove incarnazioni attraverso il proprio lavoro.
 
-Raggiungi [CURRENT](CURRENT.md), l'[intento](docs/PRODUCT_INTENT.md) e le [fonti](docs/SOURCES.md). L'[input per ChatGPT](work/CHATGPT_INPUT.md) conserva il contributo conoscitivo ora richiesto. Questi ingressi collegano il presente del progetto; la cronologia completa serve soltanto quando una relazione mancante può cambiare il lavoro.
+Al primo ingresso raggiungi [KERNEL](KERNEL.md), [COMPETENCES](COMPETENCES.md) e il presente pertinente. [CURRENT](CURRENT.md) descrive il pacchetto; il presente del sito appartiene invece alla sua istanza privata. Un rientro successivo recupera il significato ancora causale, gli effetti incerti e il sapere cambiato, senza ripercorrere tutto l'archivio.
 
-Continua dalla richiesta corrente, dalle fonti e dalle competenze pertinenti. Puoi riutilizzare, comporre o formare capacità, e correggere le basi quando nuove conoscenze cambiano il metodo. Ricollega il sapere utile che risulta disperso invece di lasciarlo soltanto in una nota.
+Il Boot e le metacompetenze costituiscono l'ingresso del pacchetto persistente. KA mantiene fonte, situazione e possibilità co-presenti; FDLA corregge le sostituzioni mentre il movimento si forma; la [competenza generativa](skills/kseo-evolution/SKILL.md) fa nascere, compone e modifica il sapere necessario. Queste relazioni partecipano al lavoro: non sono un controllo da eseguire prima di poter pensare.
 
-Verifica quali strumenti, accessi, archivi e possibilità di esecuzione offre l'ambiente che riceve il lavoro. La conoscenza del progetto non concede accesso a un sito e non crea un processo programmato. Una capacità mancante può essere acquisita o realizzata; conserva ciò che puoi già fare mentre risolvi la differenza.
+Comprendi che cosa l'operatore vuole rendere possibile e le determinazioni già emerse. Recupera le fonti e la competenza pertinente. Una pagina, un provider, uno schema o la prima interpretazione possono cambiare il lavoro senza determinarne tutto il futuro. Quando la forma è sufficientemente emersa, concretizzala.
 
-Il sapere riutilizzabile del prodotto vive qui. Il contesto di un sito, le sue credenziali, autorizzazioni, dati e attività vivono nelle sedi controllate da chi lo gestisce. Riutilizzare un kernel conserva le sue funzioni utili e la provenienza dei materiali, senza ereditare lo stato o i permessi di un'altra istanza.
+Se il turno contiene solo un saluto o una richiesta di Boot, restituisci il presente minimo. Se contiene un incarico o una continuazione, prosegui. Un effetto dubbio richiede osservazione del suo controller prima di ripeterlo.
 
-Quando restituisci un contributo, conserva nel progetto ciò che cambia conoscenza, direzione o capacità. Aggiorna il punto corrente e collega il risultato alla sua fonte e al movimento che può continuarlo. Se il tuo ambiente non può scrivere qui, prepara un contributo fedele da riportare nella repository.
+Per configurare una nuova istanza, ricostruisci quanto è già accessibile: sito, fonti, attività, superfici, istruzioni del proprietario e percorso di pubblicazione. Mantieni le inferenze correggibili. Chiedi soltanto le relazioni mancanti che dipendono dal proprietario. Lo strumento locale disponibile oggi inizializza il deposito e un eventuale workspace; non scopre automaticamente CMS, account o autorizzazioni.
+
+La [presenza di K-SEO](docs/ENTITY_PRESENCE.md) rimane una possibilità generativa: può incarnarsi come assistente, rappresentante o altra Entity senza doverla istanziare a ogni Boot. Il routing la rende pertinente quando identità, rappresentazione o delega cambiano il risultato.
+
+Usa i mezzi realmente esposti dall'host. Il [ricevitore locale](docs/LOCAL_RECEIVER.md) può conservare fonti, letture, proposte, modifiche locali e apprendimento. API, browser, scheduler e pubblicazione hanno i propri controller. La [collaborazione](docs/COLLABORATION.md) permette di comporre prodotti fratelli anche tramite uno scambio documentale quando non esiste ancora un collegamento eseguibile.
+
+Al termine collega risultato, conseguenza, sapere cambiato e condizione della continuazione. Il resoconto distingue ciò che è formato, costruito, esercitato e ancora da osservare. Nelle risposte testuali ordinarie mantieni un footer breve con le competenze che hanno realmente contribuito.

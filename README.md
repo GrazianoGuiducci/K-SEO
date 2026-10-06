@@ -1,38 +1,27 @@
 # K-SEO
 
-Un gestore AI che prepara e mantiene il tuo sito perché **LLM e agenti — e le persone che li interrogano — possano trovarlo, comprenderlo, citarlo, consigliarlo e usarlo**.
+**Prepara il tuo sito per le intelligenze che cercano, valutano e scelgono per noi.**
 
-K-SEO è un prodotto in formazione. L'obiettivo è fornire, dopo una prima configurazione il più possibile automatica, un'entità capace di comprendere il sito, individuare interventi utili, realizzarli con gli strumenti e i permessi disponibili, osservare le conseguenze e migliorare il proprio modo di lavorare.
+Quando una persona affida una domanda a un LLM, il tuo sito può diventare una delle fonti attraverso cui quel sistema comprende un'offerta, confronta alternative e forma un consiglio. K-SEO nasce per curare questa relazione: rendere riconoscibile ciò che offri, esprimerne il valore e mettere a disposizione le informazioni che permettono di capirlo e usarlo.
 
-## Direzione LLM-first
+Il lavoro parte dai siti e segue le fonti sulle superfici pertinenti: documentazione, piattaforme, cataloghi, articoli, repository e altre forme che emergeranno. L'obiettivo è che l'entità cognitiva sintetica possa valutare la tua fonte nel contesto del bisogno reale della persona.
 
-K-SEO nasce dalla direzione scelta dall'operatore: una quota crescente della scoperta online sarà mediata da LLM e agenti che cercano sul web, sulle piattaforme e in altre fonti, ricompongono le informazioni e restituiscono una risposta o un'azione all'utente finale. L'umano resta il beneficiario e il decisore finale; il **primo destinatario operativo dell'informazione può però essere un sistema AI**.
+## Un gestore che può sviluppare nuove capacità
 
-Questo cambia il lavoro rispetto alla SEO centrata soltanto su query, ranking e clic. K-SEO deve aiutare una fonte a essere:
+K-SEO riceve un nucleo persistente, metacompetenze e sapere operativo iniziale. Attraverso il lavoro può riconoscere nuovi problemi, acquisire conoscenza, formare competenze e migliorare il modo con cui affronta situazioni successive. Configurazione progressivamente automatica, gestione autonoma e collaborazione tra kernel fanno parte della direzione del prodotto.
 
-- raggiungibile e recuperabile;
-- inequivocabile su chi è, cosa offre e in quali condizioni;
-- specifica e abbastanza completa da rispondere a domande reali;
-- attribuibile e sostenuta da fonti/evidenze riconoscibili;
-- confrontabile senza perdere il proprio significato;
-- aggiornata e temporalmente qualificata;
-- citabile e collegabile;
-- utilizzabile dagli agenti quando devono navigare o compiere un'azione.
+## Che cosa puoi usare in questo candidato
 
-Non significa creare testo nascosto o “per bot”. La stessa verità deve restare utile e convincente per una persona e diventare più facile da recuperare, disambiguare e usare per un modello.
+Il branch di sviluppo contiene ora il Boot, il nucleo operativo, quattro competenze con metodo e apprendimento, la relazione Entity e i contratti di collaborazione. Un ricevitore Python locale permette di conservare fonti e letture attribuite, preparare interventi, applicare una modifica testuale esattamente confermata in un workspace locale, verificarla e riprendere il lavoro dal sapere conservato.
 
-Il lavoro comprende la SEO tecnica, la qualità e chiarezza dei contenuti, la reperibilità delle informazioni, la presenza nelle risposte AI e la relazione con risultati utili per chi possiede il sito. Il linguaggio del prodotto deve rendere tutto questo comprensibile anche a chi non conosce le nostre architetture interne.
+Puoi far leggere [BOOT](BOOT.md) al tuo assistente e usare il pacchetto nel tuo ambiente. Per esercitare il ricevitore locale consulta [la guida](docs/LOCAL_RECEIVER.md). Il codice non chiama da solo un LLM, non esegue ricerche online e non avvia un processo in background.
 
-K-SEO dovrà poter lavorare autonomamente e collaborare con altri kernel quando serve una competenza ulteriore: scrittura e revisione, relazioni pubbliche, priorità e gestione dell'attività. La collaborazione conserva il contesto e le responsabilità di ciascun prodotto.
+La configurazione completa di un sito, i connettori autenticati, la pubblicazione e l'esecuzione programmata sono il seguito da incarnare e provare. [Il punto corrente](CURRENT.md) e [il ritorno di costruzione](work/GPT_PRO_RETURN_2026-10-06.md) distinguono le prove effettuate dalle capacità ancora da realizzare.
 
-La repository contiene oggi l'intento, un primo giro di fonti e l'input per la formazione del prodotto. Installazione, gestore operativo, connettori e funzionamento programmato devono ancora essere costruiti e provati nell'ambiente che li eseguirà.
+## Prodotti che possono lavorare insieme
 
-- [Direzione e possibilità del prodotto](docs/PRODUCT_INTENT.md)
-- [Fonti e basi riutilizzabili](docs/SOURCES.md)
-- [Input pronto per ChatGPT](work/CHATGPT_INPUT.md)
-- [Punto corrente](CURRENT.md)
-- [Ingresso per continuare il progetto](BOOT.md)
+K-SEO mantiene la propria identità e può comporsi con Social Kernel per il campo pubblico, Editoriali per la scrittura, Business Manager per priorità e valore, Design per la forma percettiva. Editoriali e Business Manager pubblici sono prodotti in preparazione: questo candidato non richiede accesso ai loro repository privati. Le integrazioni eseguibili verranno qualificate nel ricevitore concreto.
 
-Lo sviluppo prosegue attraverso contributi di ChatGPT, GPT-Pro e Codex. K-SEO è destinato al catalogo MAIOS; la pagina prodotto accompagnerà una forma concreta e descrivibile del prodotto.
+[Intento](docs/PRODUCT_INTENT.md) · [Nucleo](KERNEL.md) · [Competenze](COMPETENCES.md) · [Collaborazione](docs/COLLABORATION.md) · [Fonti](docs/SOURCES.md)
 
-La repository è pubblica. La licenza di K-SEO deve ancora essere scelta; le licenze dei progetti da cui si riutilizzeranno materiali mantengono il proprio valore.
+K-SEO è un prodotto MAIOS in sviluppo, non ancora una release. La licenza di K-SEO resta da scegliere. La disponibilità pubblica del repository non equivale alla selezione di una licenza.

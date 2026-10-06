@@ -1,0 +1,25 @@
+{
+  "schema": "kseo.package/1",
+  "version": "0.1.0.dev0",
+  "status": "development_candidate",
+  "entry": "BOOT.md",
+  "kernel": "KERNEL.md",
+  "competence_field": "COMPETENCES.md",
+  "current": "CURRENT.md",
+  "private_instance_is_separate": true,
+  "runtime": {
+    "kind": "local_reference_receiver",
+    "entry": "src/kseo/__main__.py",
+    "network": false,
+    "scheduler": false,
+    "model_api": false
+  },
+  "competences": [
+    "skills/kseo-cognitive-relation/SKILL.md",
+    "skills/kseo-evidence/SKILL.md",
+    "skills/kseo-intervention/SKILL.md",
+    "skills/kseo-evolution/SKILL.md"
+  ],
+  "presence_method": "docs/ENTITY_PRESENCE.md",
+  "licence_selection": "pending"
+}

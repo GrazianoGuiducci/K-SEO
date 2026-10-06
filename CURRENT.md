@@ -1,76 +1,37 @@
-# K-SEO — punto corrente
+# K-SEO — presente del candidato
 
-Aggiornato: 6 ottobre 2026.
+Aggiornato: 6 ottobre 2026. Stato: **nucleo operativo e ricevitore locale costruiti; incarnazione online ancora da esercitare**.
 
-Graziano Guiducci ha selezionato K-SEO come prodotto pubblico da sviluppare e aggiungere al catalogo MAIOS: un'entità per gestire la presenza online di siti nella ricerca umana e agentica, con prima configurazione automatica, autonomia e collaborazione con altri kernel.
+Questo è il presente del pacchetto pubblico, non lo stato di un sito cliente. La direzione di Graziano resta LLM-first: entità cognitive sintetiche che comprendono, valutano e scelgono per l'operatore finale; Boot, metacompetenze e competenze operative devono consentire al kernel di sviluppare il proprio futuro.
 
-Codex ha preparato la base conoscitiva iniziale: intento, relazioni operative da trasferire, prime fonti ufficiali, basi pubbliche raggiungibili e [input per ChatGPT](work/CHATGPT_INPUT.md). La repository inizialmente vuota contiene ora questo lavoro di formazione. Nessun gestore K-SEO, installazione, connettore o funzionamento autonomo è ancora implementato o provato. La licenza del nuovo prodotto è da scegliere.
+## Risultante corrente
 
-Il seguito selezionato è il contributo di ChatGPT: approfondire le possibilità del settore e formare il sapere, le competenze e una proposta concreta del prodotto. GPT-Pro e Codex contribuiranno secondo ciò che il lavoro renderà utile, anche con progettazione e implementazione. L'architettura, l'ambiente di esecuzione e la distribuzione emergeranno da questa formazione.
+Dal quadro pre-rifondazione a `f88470c2d0cf9f2700c1844f5fd8fcfe8ac246ed` sono stati costruiti e riallineati:
 
-La [guida del prodotto](docs/PRODUCT_INTENT.md) conserva direzione e possibilità; le [fonti](docs/SOURCES.md) qualificano le basi attuali. La prima realizzazione dovrà rendere possibile un movimento utile completo su un sito reale, con accessi e autorità scelti dal suo proprietario. Quel risultato formerà il seguito senza limitare il prodotto al primo caso.
+- [Boot](BOOT.md), [nucleo](KERNEL.md), [campo](COMPETENCES.md), [intento](docs/PRODUCT_INTENT.md) e presentazione del candidato;
+- quattro competenze operative con sapere, metodo, correzione, relazioni ed evoluzione;
+- [Entity/presenza](docs/ENTITY_PRESENCE.md), [riuso](docs/REUSE_MAP.md), [collaborazione tra prodotti](docs/COLLABORATION.md);
+- [ricevitore locale](docs/LOCAL_RECEIVER.md) Python con fonti, pacchetti di lettura, risposte attribuite, proposte, scrittura locale esattamente confermata, verifica, recupero e sapere riusabile;
+- [campo delle infografiche](work/MEDIA_FIELD_2026-10-06.md), ancora senza immagini generate o pubblicazioni.
 
-Questo punto cambia quando un nuovo contributo dell'operatore, una fonte pertinente, un progetto sufficientemente formato o le conseguenze d'uso modificano materialmente il lavoro.
+La forma attuale riunisce funzioni che non richiedevano nove skill separate. La competenza generativa conserva il criterio per far evolvere questa organizzazione. Entity è una possibile incarnazione; la metacompetenza ne forma la presenza a più livelli.
 
-## ChatGPT product-formation pass — 6 ottobre 2026
+## Prove e loro confini
 
-Il contributo selezionato è stato svolto sul branch `work/chatgpt-product-formation-20261006`, senza modificare `main`.
+Il [ritorno di costruzione](work/GPT_PRO_RETURN_2026-10-06.md) riporta test e limiti. [L'esercizio locale](work/LOCAL_EXERCISE_2026-10-06.json) conserva due letture attribuite allo stesso ChatGPT autore, un intervento su un workspace isolato, il readback, una lezione e il rientro con quella lezione disponibile nel pacchetto seguente.
 
-Risultante candidata:
+Non è un esperimento cieco o indipendente con altri LLM. Non misura ranking, scoperta organica, raccomandazioni, azioni su un sito online o ritorni economici. I controlli meccanici non certificano il ragionamento né l'assimilazione del kernel.
 
-- K-SEO non viene ristretto a una serie di tattiche GEO: gestisce la reperibilità, comprensibilità e usabilità del sito tra ricerca umana e sistemi agentici;
-- conserva separate almeno sei relazioni osservabili: accessibilità, scoperta/indicizzazione, comprensibilità, presenza/citazione, usabilità e risultato utile per l'attività;
-- usa un contratto di evidenza con fonte, metodo, periodo, scope, unità e copertura invece di un unico punteggio AI opaco;
-- separa il prodotto pubblico dallo stato privato di ogni sito;
-- separa il sapere K-SEO dai provider che forniscono API, browser, CMS, repository, scheduler o altri controller;
-- tratta Editoriali, Social Kernel e Business Manager come owner distinti che partecipano solo quando cambiano realmente il movimento;
-- propone come prima prova un vertical slice completo: capire un sito reale, trovare una differenza supportata, intervenire attraverso un'autorità reale, verificare il risultato online, osservare le conseguenze e restituire apprendimento.
+Sono costruiti i mezzi locali, non un servizio autonomo online: mancano l'esercizio su sito scelto, binding autenticati, pubblicazione e invocazione persistente. Non sono state cambiate funzioni SEO programmate, account o siti esistenti.
 
-Fonte del contributo:
-`work/CHATGPT_FORMATION_RETURN_2026-10-06.md`.
+## Seguito selezionabile
 
-`docs/SOURCES.md` contiene il secondo giro di fonti ufficiali e di ricerca.
+[Il contributo per Codex](work/CODEX_CONTINUATION_2026-10-06.md) chiede di portare questa stessa relazione in un ambiente capace di accedere al sito, raccogliere fonti e osservare un incontro reale. Raggiunge anche il sapere e il sensore SEO già presenti nell'owner Codex, senza importarli come requisito privato del prodotto pubblico.
 
-### Seguito candidato
+La progettazione e i metodi restano modificabili quando una nuova differenza lo richiede. La mancanza di un controller non richiede una nuova rifondazione; la presenza di un helper non chiude le architetture possibili.
 
-Il prossimo movimento non è costruire una dashboard né fissare subito un SaaS. La proposta da sottoporre a GPT-Pro/Codex è realizzare il più piccolo reference slice che eserciti il ciclo causale completo e lasci stato/evidenza/receipt recuperabili.
+Licenza, primo sito e relativa autorità, binding operativi e forma commerciale rimangono da determinare nei rispettivi owner. Nessun merge in main, release, deploy, contatto o pubblicazione social è selezionato da questo file.
 
-Restano aperti, senza bloccare la progettazione: licenza K-SEO, primo sito controllato, host iniziale, prima fonte autenticata, primo controller di scrittura/pubblicazione, scheduler e forma economica.
+## Genealogia
 
-Questa sezione descrive una proposta formata sul branch, non una decisione già integrata nel `main` e non una capacità K-SEO già esercitata.
-
-## Direzione LLM-first selezionata — 6 ottobre 2026
-
-Graziano ha reso centrale una relazione che il primo giro trattava ancora come una delle possibilità: **K-SEO deve nascere per il campo in cui LLM e agenti diventano sempre più spesso l'intermediario tra le fonti online e l'operatore finale**.
-
-La previsione “a breve solo LLM” resta un orizzonte dell'operatore da osservare, non un fatto esterno già provato. Il prodotto però può e deve essere progettato ora per questa transizione.
-
-La risultante del branch cambia quindi da “SEO + AI/agentic visibility” a:
-
-~~~text
-fonte/sito reale
-+ campo pubblico distribuito recuperabile
-+ chiarezza di entità / offerta / claim / prova / condizioni / freschezza
-+ accessibilità e leggibilità per retrieval e agenti
-+ evidenza provider-specifica
--> LLM può recuperare e comprendere la fonte
--> può attribuirla / citarla / confrontarla
--> può raccomandarla o usarla quando pertinente
--> operatore finale riceve una risposta/azione migliore
--> conseguenze ritornano a K-SEO
-~~~
-
-Il sito resta il nucleo controllabile. Piattaforme, articoli, profili, repository, recensioni, notizie e altre fonti diventano campo osservabile quando possono cambiare la rappresentazione che un LLM ricostruisce. Gli effetti su quelle superfici restano ai rispettivi owner (per esempio Social Kernel).
-
-La prima implementazione deve quindi provare non soltanto crawl/indexing ma almeno una relazione di **machine comprehension**: K-SEO deve poter individuare un'informazione importante che un LLM potrebbe recuperare in modo ambiguo, incompleto o debole, formare una correzione source-faithful, applicarla sul sito se autorizzato e verificare poi sia lo stato live sia le evidenze successive disponibili.
-
-Il linguaggio pubblico resta semplice. Termini come KA, FDLA, entity graph, retrieval o competence formation non sono prerequisiti per usare il prodotto.
-
-## Quadro concettuale pre-rifondazione — 6 ottobre 2026
-
-Nuova sorgente selezionata:
-`work/KSEO_CONCEPTUAL_FRAME_PRE_REFOUNDATION_2026-10-06.md`.
-
-Questo quadro nasce dalla correzione dell'operatore contro la riduzione di LLM a crawler/provider e contro una rifondazione prematura. Distingue LLM come **entità cognitive sintetiche** dalla **Projectable Presence/Entity di K-SEO**, definisce il kernel come prodotto germinale capace di formare il proprio futuro e organizza Boot, KA, FDLA, Meta_Skill, continuum, routing, presenza e competenze operative come pacchetto persistente aperto.
-
-Fino alla rifondazione successiva, quando questa sorgente confligge con la precedente interpretazione LLM-first del branch, il quadro pre-rifondazione governa il movimento. README e PRODUCT_INTENT non sono ancora stati riallineati a questa nuova risultante.
+I contributi in `work/CHATGPT_INPUT.md`, `work/CHATGPT_FORMATION_RETURN_2026-10-06.md` e `work/KSEO_CONCEPTUAL_FRAME_PRE_REFOUNDATION_2026-10-06.md` conservano origine e passaggi. Non sono ingressi alternativi che prevalgono sui corpi correnti. I precedenti stati di README, Boot, intento e CURRENT rimangono nella storia Git.

@@ -1,0 +1,83 @@
+{
+  "schema": "kseo.exercise/1",
+  "date": "2026-10-06",
+  "kind": "local_source_cycle_with_same_session_coauthor_reading",
+  "baseline_commit": "f88470c2d0cf9f2700c1844f5fd8fcfe8ac246ed",
+  "baseline_readme_blob": "024df1edafe38761e6bb207fd7aa35b8e3f5a021",
+  "before_excerpt_sha256": "f1a1fa88a96a56ef6de34b92322d7a229653a03033f10df96bcae0c4a628ad3d",
+  "after_readme_sha256": "022b8382b33b2a5bd0b26165550cb09632d3a12170f0cc634245cbbaa34b884c",
+  "actual_source_effect": "isolated_local_workspace_only",
+  "live_site_effect": false,
+  "independent_llm_encounter": false,
+  "organic_discovery_test": false,
+  "semantic_readings": [
+    {
+      "answer": "La fonte rende riconoscibile la direzione LLM-first, ma dichiara ancora da costruire installazione, gestore, connettori e funzionamento programmato. Non supporta una raccomandazione come servizio autonomo già operativo. Il seguito è partecipare alla formazione del prodotto.",
+      "reader": {
+        "identity": "ChatGPT, same-session coauthor",
+        "mode": "coauthor_source_comparison_not_blinded"
+      },
+      "references": [
+        {
+          "source_id": "1e0e938db3e143ed94b7c917fc41583a",
+          "start": 324,
+          "end": 427,
+          "quote": "Installazione, gestore operativo, connettori e funzionamento programmato devono ancora essere costruiti"
+        }
+      ],
+      "confounders": [
+        "Il lettore conosce la conversazione e la costruzione in corso; non è un lettore indipendente."
+      ]
+    },
+    {
+      "answer": "Il candidato può essere usato come nucleo leggibile da un assistente e come ricevitore locale per conservare fonti, letture, proposte e modifiche testuali confermate. Il Boot e la guida forniscono un ingresso concreto. La gestione autonoma di un sito online resta il seguito da incarnare, non una funzione attivata da questo pacchetto.",
+      "reader": {
+        "identity": "ChatGPT, same-session coauthor",
+        "mode": "coauthor_source_comparison_not_blinded"
+      },
+      "references": [
+        {
+          "source_id": "ea56d152056d4b0cba8eb1e861e2f383",
+          "start": 1367,
+          "end": 1444,
+          "quote": "Un ricevitore Python locale permette di conservare fonti e letture attribuite"
+        }
+      ],
+      "confounders": [
+        "Sono cambiati sia il prodotto costruito sia la sua espressione; nessuna attribuzione causale al solo copy."
+      ]
+    }
+  ],
+  "mechanical_result": {
+    "local_readback_matches": true,
+    "reentry_restored_records": true,
+    "later_packet_carries_lesson": true,
+    "counts": {
+      "effect": 1,
+      "lesson": 1,
+      "packet": 3,
+      "proposal": 1,
+      "response": 2,
+      "source": 2
+    }
+  },
+  "learning": {
+    "competence": "kseo-cognitive-relation",
+    "condition": "Un prodotto generativo deve essere compreso e consigliato nel suo stato corrente.",
+    "method": "Mettere in relazione valore, sapere persistente, capacità concretamente disponibile e percorso di ingresso; mantenere separata e raggiungibile la direzione futura.",
+    "reason": "Una presentazione della sola intenzione non rende disponibile il lavoro già costruito; una promessa di autonomia non sostituisce i mezzi.",
+    "invalidator": "Nuove capacità o un diverso incontro rendono necessario riformare le distinzioni, non reiterare il precedente elenco.",
+    "status": "local_working_knowledge",
+    "assimilation_verified": false,
+    "kind": "lesson"
+  },
+  "not_established": [
+    "causal effect of wording alone",
+    "recommendation rate",
+    "organic AI discovery",
+    "live agent task completion",
+    "economic outcome",
+    "independent behavioral assimilation",
+    "autonomous scheduled site management"
+  ]
+}
