@@ -1,5 +1,7 @@
 # Usare il ricevitore locale
 
+Strumento facoltativo. Per ricevere e avviare il nucleo K-SEO parti da [START_HERE](../START_HERE.md); questo helper non è un requisito del kernel.
+
 Questo helper incarna un pezzo del lavoro K-SEO: fonti → richiesta di lettura → risposta attribuita → proposta → scrittura locale confermata → verifica → sapere riusabile → rientro. Il kernel e il lettore formano il giudizio; Python conserva ed esegue le operazioni definite. Non sono presenti chiamate LLM o fetch di rete.
 
 ## Avvio
@@ -7,7 +9,6 @@ Questo helper incarna un pezzo del lavoro K-SEO: fonti → richiesta di lettura 
 Dalla radice del sorgente, con Python 3.11 o successivo:
 
 ```bash
-PYTHONPATH=src python -m unittest discover -s tests -v
 PYTHONPATH=src python -m kseo --instance ../kseo-private init --workspace ../sito-locale
 PYTHONPATH=src python -m kseo --instance ../kseo-private status
 ```
@@ -65,3 +66,7 @@ PYTHONPATH=src python -m kseo --instance ../kseo-private read ID_RECORD
 La directory privata contiene SQLite, incluse fonti, testi precedenti e risposte. Proteggila e non pubblicarla. Il formato non è cifrato. I record sono dati del proprietario; un futuro prodotto hosted dovrà incarnare accessi, isolamento, conservazione e cancellazione adeguati alla propria situazione.
 
 Lo stato non avvia nulla in background. Un futuro host può invocare queste operazioni o sostituirle con mezzi equivalenti. La funzione SEO già programmata in un altro ambiente mantiene il proprio mandato e non viene modificata da questo candidato.
+
+## Prove di sviluppo
+
+Il sorgente conserva le prove del ricevitore. Per manutenzione del codice, quando pertinente, il comando è `PYTHONPATH=src python -m unittest discover -s tests -v`. Non è un passaggio richiesto per avviare il nucleo o per questa preparazione della consegna.

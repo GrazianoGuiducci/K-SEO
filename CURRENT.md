@@ -1,37 +1,27 @@
-# K-SEO — presente del candidato
+# K-SEO — presente della consegna
 
-Aggiornato: 6 ottobre 2026. Stato: **nucleo operativo e ricevitore locale costruiti; incarnazione online ancora da esercitare**.
+Aggiornato: 6 ottobre 2026. Stato: **nucleo pronto per il ricevente; consegna pubblica in preparazione**.
 
-Questo è il presente del pacchetto pubblico, non lo stato di un sito cliente. La direzione di Graziano resta LLM-first: entità cognitive sintetiche che comprendono, valutano e scelgono per l'operatore finale; Boot, metacompetenze e competenze operative devono consentire al kernel di sviluppare il proprio futuro.
+La risultante di costruzione `3204a5baff7903e586f08874cfc1d2ce61d82428` resta la base. Il nuovo movimento, selezionato dall'operatore attraverso il ritorno Codex, riguarda chiarezza e confezionamento prima del catalogo, senza aggiungere una campagna di test.
 
-## Risultante corrente
+## Prodotto consegnato
 
-Dal quadro pre-rifondazione a `f88470c2d0cf9f2700c1844f5fd8fcfe8ac246ed` sono stati costruiti e riallineati:
+Boot, logiche del kernel, competenze, continuità, presenza e collaborazione costituiscono il nucleo persistente. Il ricevente può usarlo per organizzare la propria incarnazione attraverso i mezzi del suo ambiente. Il codice Python è uno strumento locale facoltativo; un sito online già configurato non è una condizione per consegnare questo nucleo.
 
-- [Boot](BOOT.md), [nucleo](KERNEL.md), [campo](COMPETENCES.md), [intento](docs/PRODUCT_INTENT.md) e presentazione del candidato;
-- quattro competenze operative con sapere, metodo, correzione, relazioni ed evoluzione;
-- [Entity/presenza](docs/ENTITY_PRESENCE.md), [riuso](docs/REUSE_MAP.md), [collaborazione tra prodotti](docs/COLLABORATION.md);
-- [ricevitore locale](docs/LOCAL_RECEIVER.md) Python con fonti, pacchetti di lettura, risposte attribuite, proposte, scrittura locale esattamente confermata, verifica, recupero e sapere riusabile;
-- [campo delle infografiche](work/MEDIA_FIELD_2026-10-06.md), ancora senza immagini generate o pubblicazioni.
+[START_HERE](START_HERE.md) fornisce l'avvio breve. [BOOT](BOOT.md), [KERNEL](KERNEL.md) e [COMPETENCES](COMPETENCES.md) raggiungono il sapere. [La guida di consegna](docs/DELIVERY.md) conserva criterio, composizione competente e stato della distribuzione.
 
-La forma attuale riunisce funzioni che non richiedevano nove skill separate. La competenza generativa conserva il criterio per far evolvere questa organizzazione. Entity è una possibile incarnazione; la metacompetenza ne forma la presenza a più livelli.
+## Preparato in questo movimento
 
-## Prove e loro confini
+Ingresso rivolto al ricevente; istruzione breve; distinzione nucleo/helper; guida di consegna e sua raggiungibilità dalla competenza di evoluzione; elenco esplicito dei file da confezionare; seguito finale per Codex. Codice runtime e nucleo logico non sono cambiati. Le prove precedenti rimangono attribuite alla sorgente che le ha esercitate; non è stata avviata una nuova campagna.
 
-Il [ritorno di costruzione](work/GPT_PRO_RETURN_2026-10-06.md) riporta test e limiti. [L'esercizio locale](work/LOCAL_EXERCISE_2026-10-06.json) conserva due letture attribuite allo stesso ChatGPT autore, un intervento su un workspace isolato, il readback, una lezione e il rientro con quella lezione disponibile nel pacchetto seguente.
+## Chiusure ancora da compiere
 
-Non è un esperimento cieco o indipendente con altri LLM. Non misura ranking, scoperta organica, raccomandazioni, azioni su un sito online o ritorni economici. I controlli meccanici non certificano il ragionamento né l'assimilazione del kernel.
+La licenza non è selezionata. Il passaggio dal branch di lavoro al main, il rilascio scaricabile ufficiale e l'integrazione in catalogo non sono stati eseguiti in questa preparazione.
 
-Sono costruiti i mezzi locali, non un servizio autonomo online: mancano l'esercizio su sito scelto, binding autenticati, pubblicazione e invocazione persistente. Non sono state cambiate funzioni SEO programmate, account o siti esistenti.
+Il messaggio Codex fornito dall'operatore è la fonte della precisazione sul ricevente. Le ulteriori precisazioni dichiarate presenti nel rientro locale Codex non sono nel rientro GitHub letto: il [seguito finale](work/CODEX_DELIVERY_FINALIZATION_2026-10-06.md) ne richiede il recupero puntuale, senza ricostruirle per ipotesi.
 
-## Seguito selezionabile
+La funzione SEO programmata mantiene il proprio mandato. Nessun account, sito, scheduler o prodotto fratello è stato modificato.
 
-[Il contributo per Codex](work/CODEX_CONTINUATION_2026-10-06.md) chiede di portare questa stessa relazione in un ambiente capace di accedere al sito, raccogliere fonti e osservare un incontro reale. Raggiunge anche il sapere e il sensore SEO già presenti nell'owner Codex, senza importarli come requisito privato del prodotto pubblico.
+## Genealogia e profondità
 
-La progettazione e i metodi restano modificabili quando una nuova differenza lo richiede. La mancanza di un controller non richiede una nuova rifondazione; la presenza di un helper non chiude le architetture possibili.
-
-Licenza, primo sito e relativa autorità, binding operativi e forma commerciale rimangono da determinare nei rispettivi owner. Nessun merge in main, release, deploy, contatto o pubblicazione social è selezionato da questo file.
-
-## Genealogia
-
-I contributi in `work/CHATGPT_INPUT.md`, `work/CHATGPT_FORMATION_RETURN_2026-10-06.md` e `work/KSEO_CONCEPTUAL_FRAME_PRE_REFOUNDATION_2026-10-06.md` conservano origine e passaggi. Non sono ingressi alternativi che prevalgono sui corpi correnti. I precedenti stati di README, Boot, intento e CURRENT rimangono nella storia Git.
+[Costruzione e prove](work/GPT_PRO_RETURN_2026-10-06.md), [esercizio locale](work/LOCAL_EXERCISE_2026-10-06.json) e [campo media](work/MEDIA_FIELD_2026-10-06.md) restano raggiungibili. Il precedente handoff per l'incarnazione online non seleziona più il movimento corrente: tale lavoro potrà continuare nel destinatario quando pertinente.

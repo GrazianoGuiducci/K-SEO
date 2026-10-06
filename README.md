@@ -2,26 +2,28 @@
 
 **Prepara il tuo sito per le intelligenze che cercano, valutano e scelgono per noi.**
 
-Quando una persona affida una domanda a un LLM, il tuo sito può diventare una delle fonti attraverso cui quel sistema comprende un'offerta, confronta alternative e forma un consiglio. K-SEO nasce per curare questa relazione: rendere riconoscibile ciò che offri, esprimerne il valore e mettere a disposizione le informazioni che permettono di capirlo e usarlo.
+K-SEO è un kernel da consegnare al tuo assistente AI. Gli fornisce il sapere e il metodo per comprendere la tua attività, rendere riconoscibile ciò che offri e curare le informazioni attraverso cui gli LLM formano risposte, consigli e azioni per le persone.
 
-Il lavoro parte dai siti e segue le fonti sulle superfici pertinenti: documentazione, piattaforme, cataloghi, articoli, repository e altre forme che emergeranno. L'obiettivo è che l'entità cognitiva sintetica possa valutare la tua fonte nel contesto del bisogno reale della persona.
+Il lavoro parte dai siti e segue le fonti pertinenti: documentazione, piattaforme, cataloghi, articoli, repository e altre forme che emergeranno. Il centro è la relazione con un'entità cognitiva sintetica capace di leggere, comprendere, confrontare e valutare.
 
-## Un gestore che può sviluppare nuove capacità
+## Inizia dal nucleo
 
-K-SEO riceve un nucleo persistente, metacompetenze e sapere operativo iniziale. Attraverso il lavoro può riconoscere nuovi problemi, acquisire conoscenza, formare competenze e migliorare il modo con cui affronta situazioni successive. Configurazione progressivamente automatica, gestione autonoma e collaborazione tra kernel fanno parte della direzione del prodotto.
+Rendi la cartella del pacchetto accessibile al tuo assistente e segui [Inizia qui](START_HERE.md). L'istruzione di avvio lo porta a [BOOT](BOOT.md), al nucleo e alle competenze.
 
-## Che cosa puoi usare in questo candidato
+Il ricevente organizza la propria incarnazione attraverso le capacità del suo ambiente: comprende le fonti disponibili, configura ciò che può, acquisisce o forma il sapere necessario e conserva il seguito nel tuo spazio privato. Gli accessi e le decisioni che dipendono da te restano riconoscibili.
 
-Il branch di sviluppo contiene ora il Boot, il nucleo operativo, quattro competenze con metodo e apprendimento, la relazione Entity e i contratti di collaborazione. Un ricevitore Python locale permette di conservare fonti e letture attribuite, preparare interventi, applicare una modifica testuale esattamente confermata in un workspace locale, verificarla e riprendere il lavoro dal sapere conservato.
+## Che cosa ricevi
 
-Puoi far leggere [BOOT](BOOT.md) al tuo assistente e usare il pacchetto nel tuo ambiente. Per esercitare il ricevitore locale consulta [la guida](docs/LOCAL_RECEIVER.md). Il codice non chiama da solo un LLM, non esegue ricerche online e non avvia un processo in background.
+Boot, logiche del kernel, competenze operative, formazione di nuove capacità, continuità, presenza e collaborazione. È un pacchetto persistente: il lavoro può cambiare ciò che il kernel sa fare e il modo in cui continuerà. La prima organizzazione lascia spazio alle capacità e alle superfici future.
 
-La configurazione completa di un sito, i connettori autenticati, la pubblicazione e l'esecuzione programmata sono il seguito da incarnare e provare. [Il punto corrente](CURRENT.md) e [il ritorno di costruzione](work/GPT_PRO_RETURN_2026-10-06.md) distinguono le prove effettuate dalle capacità ancora da realizzare.
+Il nucleo è leggibile senza Python. Il [ricevitore Python locale](docs/LOCAL_RECEIVER.md), incluso come strumento facoltativo, conserva fonti e letture, prepara modifiche testuali confermate e ne mantiene verifica e apprendimento. Il ricevente può usarlo, adattarlo o lavorare attraverso altri mezzi sufficienti.
 
 ## Prodotti che possono lavorare insieme
 
-K-SEO mantiene la propria identità e può comporsi con Social Kernel per il campo pubblico, Editoriali per la scrittura, Business Manager per priorità e valore, Design per la forma percettiva. Editoriali e Business Manager pubblici sono prodotti in preparazione: questo candidato non richiede accesso ai loro repository privati. Le integrazioni eseguibili verranno qualificate nel ricevitore concreto.
+K-SEO può comporsi con Social Kernel per il campo pubblico, Editoriali per la scrittura, Business Manager per priorità e valore, Design per la forma percettiva. Ogni prodotto mantiene identità, sapere e responsabilità propri. Editoriali e Business Manager pubblici sono in preparazione; il nucleo K-SEO contiene il sapere essenziale senza richiedere repository privati.
 
 [Intento](docs/PRODUCT_INTENT.md) · [Nucleo](KERNEL.md) · [Competenze](COMPETENCES.md) · [Collaborazione](docs/COLLABORATION.md) · [Fonti](docs/SOURCES.md)
 
-K-SEO è un prodotto MAIOS in sviluppo, non ancora una release. La licenza di K-SEO resta da scegliere. La disponibilità pubblica del repository non equivale alla selezione di una licenza.
+## Stato della consegna
+
+Il nucleo è preparato per il ricevente. Questa distribuzione è ancora un candidato: la licenza e l'integrazione della sorgente pubblica finale restano da chiudere. [Consegna del prodotto](docs/DELIVERY.md) distingue pacchetto, incarnazione nel destinatario e rilascio. Non viene consegnato un servizio hosted già collegato agli account del proprietario.

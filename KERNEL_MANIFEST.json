@@ -12,7 +12,8 @@
     "entry": "src/kseo/__main__.py",
     "network": false,
     "scheduler": false,
-    "model_api": false
+    "model_api": false,
+    "required_for_kernel": false
   },
   "competences": [
     "skills/kseo-cognitive-relation/SKILL.md",
@@ -21,5 +22,9 @@
     "skills/kseo-evolution/SKILL.md"
   ],
   "presence_method": "docs/ENTITY_PRESENCE.md",
-  "licence_selection": "pending"
+  "licence_selection": "pending",
+  "source_amendment": "RECEIVER_DELIVERY_PREPARATION_2026-10-06",
+  "start_here": "START_HERE.md",
+  "delivery_guide": "docs/DELIVERY.md",
+  "distribution_contents": "distribution/CONTENTS.json"
 }

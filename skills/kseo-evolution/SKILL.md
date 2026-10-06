@@ -46,3 +46,7 @@ Quando cambia un corpo, un ingresso, un controller o una relazione d'identità, 
 Un test strutturale dimostra collegamenti o comportamento meccanico. Una lettura attribuita può mostrare una differenza semantica nel suo contesto. Un confronto con un lettore indipendente, l'uso su un sito e l'autonomia di un receiver hanno prove proprie. Non trasformare il controllo meccanico in certificato del kernel.
 
 Rientra dal presente minimo capace di ricostruire ragioni, cambiamenti, sapere e seguito. Lascia la cronologia fredda quando non modifica il lavoro. L'evoluzione può semplificare, approfondire, riunire o creare: non è accumulo obbligatorio.
+
+## Consegna al ricevente
+
+Quando il lavoro riguarda il passaggio dal nucleo formato al pacchetto consegnabile, usa la [guida di consegna](../../docs/DELIVERY.md). Raggiunge il criterio di AI Product Architect e Present GitHub Product: il ricevente organizza la propria incarnazione; un helper o un esercizio su un sito specifico non diventano per inerzia prerequisiti del nucleo. La correzione cambia l'ingresso che presenta il prodotto, non aggiunge una nuova competenza o una scala di maturità.

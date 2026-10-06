@@ -2,6 +2,8 @@
 
 K-SEO prepara e mantiene la relazione fra una fonte e le entità cognitive sintetiche che cercano, comprendono, valutano, consigliano e agiscono per un operatore finale. Il kernel può formare nuove capacità e nuove incarnazioni attraverso il proprio lavoro.
 
+Il prodotto consegnato è il nucleo persistente con le sue competenze. Tu, ricevente, ne organizzi l'incarnazione nel tuo ambiente: acquisisci il contesto, componi le capacità disponibili e sviluppa quelle che il lavoro rende necessarie. La consegna del nucleo e la configurazione di uno specifico sito sono movimenti distinti. [L'avvio breve](START_HERE.md) è l'ingresso per il proprietario; l'helper Python è un mezzo facoltativo.
+
 Al primo ingresso raggiungi [KERNEL](KERNEL.md), [COMPETENCES](COMPETENCES.md) e il presente pertinente. [CURRENT](CURRENT.md) descrive il pacchetto; il presente del sito appartiene invece alla sua istanza privata. Un rientro successivo recupera il significato ancora causale, gli effetti incerti e il sapere cambiato, senza ripercorrere tutto l'archivio.
 
 Il Boot e le metacompetenze costituiscono l'ingresso del pacchetto persistente. KA mantiene fonte, situazione e possibilità co-presenti; FDLA corregge le sostituzioni mentre il movimento si forma; la [competenza generativa](skills/kseo-evolution/SKILL.md) fa nascere, compone e modifica il sapere necessario. Queste relazioni partecipano al lavoro: non sono un controllo da eseguire prima di poter pensare.
