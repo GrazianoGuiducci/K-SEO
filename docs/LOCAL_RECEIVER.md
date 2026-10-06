@@ -2,7 +2,7 @@
 
 Strumento facoltativo. Per ricevere e avviare il nucleo K-SEO parti da [START_HERE](../START_HERE.md); questo helper non è un requisito del kernel.
 
-Questo helper incarna un pezzo del lavoro K-SEO: fonti → richiesta di lettura → risposta attribuita → proposta → scrittura locale confermata → verifica → sapere riusabile → rientro. Il kernel e il lettore formano il giudizio; Python conserva ed esegue le operazioni definite. Non sono presenti chiamate LLM o fetch di rete.
+Questo helper conserva fonti, richieste di lettura, risposte attribuite, proposte, modifiche locali e sapere riusabile al rientro. Il kernel e il lettore comprendono la situazione; Python conserva ed esegue le operazioni definite. Le letture e l'acquisizione delle fonti arrivano attraverso i mezzi organizzati dal ricevente.
 
 ## Avvio
 
@@ -13,7 +13,15 @@ PYTHONPATH=src python -m kseo --instance ../kseo-private init --workspace ../sit
 PYTHONPATH=src python -m kseo --instance ../kseo-private status
 ```
 
-`../sito-locale` deve essere una directory esistente selezionata per l'esercizio. Senza `--workspace` l'istanza conserva fonti e letture ma non applica modifiche locali. Il comando rifiuta la reinizializzazione di una directory non vuota. Questo non è ancora un installer completo, né discovery automatico di CMS o account. In PowerShell imposta `$env:PYTHONPATH="src"` prima dei comandi Python.
+`../sito-locale` deve essere una directory esistente scelta per il lavoro. Con `--workspace` colleghi l'istanza a quella cartella per le modifiche locali; un'istanza senza workspace conserva fonti e letture. Il deposito si inizializza in una directory nuova e mantiene il sapere esterno alla cartella pubblica del kernel.
+
+In PowerShell, dalla stessa cartella:
+
+```powershell
+$env:PYTHONPATH = "src"
+python -m kseo --instance ../kseo-private init --workspace ../sito-locale
+python -m kseo --instance ../kseo-private status
+```
 
 ## Fonti e lettore
 

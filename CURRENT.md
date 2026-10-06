@@ -1,27 +1,19 @@
-# K-SEO — presente della consegna
+# K-SEO — presente del prodotto
 
-Aggiornato: 6 ottobre 2026. Stato: **nucleo pronto per il ricevente; consegna pubblica in preparazione**.
+Versione del nucleo: **1.0.0**. Direzione: **LLM-first**.
 
-La risultante di costruzione `3204a5baff7903e586f08874cfc1d2ce61d82428` resta la base. Il nuovo movimento, selezionato dall'operatore attraverso il ritorno Codex, riguarda chiarezza e confezionamento prima del catalogo, senza aggiungere una campagna di test.
+K-SEO consegna Boot, logiche, competenze, formazione, continuità, presenza e collaborazione. L'entità ricevente li usa per comprendere la situazione e organizzare la propria incarnazione attraverso le capacità del suo ambiente.
 
-## Prodotto consegnato
+[START_HERE](START_HERE.md) è l'ingresso per il proprietario. [BOOT](BOOT.md), [KERNEL](KERNEL.md) e [COMPETENCES](COMPETENCES.md) raggiungono il sapere del ricevente. [Come funziona](docs/HOW_IT_WORKS.md) ne spiega la dinamica.
 
-Boot, logiche del kernel, competenze, continuità, presenza e collaborazione costituiscono il nucleo persistente. Il ricevente può usarlo per organizzare la propria incarnazione attraverso i mezzi del suo ambiente. Il codice Python è uno strumento locale facoltativo; un sito online già configurato non è una condizione per consegnare questo nucleo.
+## Relazione corrente
 
-[START_HERE](START_HERE.md) fornisce l'avvio breve. [BOOT](BOOT.md), [KERNEL](KERNEL.md) e [COMPETENCES](COMPETENCES.md) raggiungono il sapere. [La guida di consegna](docs/DELIVERY.md) conserva criterio, composizione competente e stato della distribuzione.
+Prepariamo le possibilità attraverso spiegazione, logiche e file del kernel. Comprendere, formare e correggere restano nello stesso movimento, con fonte, direzione, metodo e conseguenza co-presenti. Il ricevente organizza il proprio lavoro e sviluppa i mezzi utili a far continuare l'orizzonte dell'operatore.
 
-## Preparato in questo movimento
+Il presente di un sito, gli accessi e l'apprendimento locale appartengono all'istanza del destinatario. Questo documento conserva il prodotto condiviso; al rientro il ricevente raggiunge il presente della propria attività.
 
-Ingresso rivolto al ricevente; istruzione breve; distinzione nucleo/helper; guida di consegna e sua raggiungibilità dalla competenza di evoluzione; elenco esplicito dei file da confezionare; seguito finale per Codex. Codice runtime e nucleo logico non sono cambiati. Le prove precedenti rimangono attribuite alla sorgente che le ha esercitate; non è stata avviata una nuova campagna.
+## Consegna e sviluppo
 
-## Chiusure ancora da compiere
+La prima distribuzione include l'ingresso italiano e inglese, la documentazione e il pacchetto selezionato. Usa Apache-2.0; NOTICE e la guida dei diritti conservano proprietà e attribuzione. [DELIVERY](docs/DELIVERY.md) conserva il metodo di consegna e [CONTENTS](distribution/CONTENTS.json) identifica i file da distribuire.
 
-La licenza non è selezionata. Il passaggio dal branch di lavoro al main, il rilascio scaricabile ufficiale e l'integrazione in catalogo non sono stati eseguiti in questa preparazione.
-
-Il messaggio Codex fornito dall'operatore è la fonte della precisazione sul ricevente. Le ulteriori precisazioni dichiarate presenti nel rientro locale Codex non sono nel rientro GitHub letto: il [seguito finale](work/CODEX_DELIVERY_FINALIZATION_2026-10-06.md) ne richiede il recupero puntuale, senza ricostruirle per ipotesi.
-
-La funzione SEO programmata mantiene il proprio mandato. Nessun account, sito, scheduler o prodotto fratello è stato modificato.
-
-## Genealogia e profondità
-
-[Costruzione e prove](work/GPT_PRO_RETURN_2026-10-06.md), [esercizio locale](work/LOCAL_EXERCISE_2026-10-06.json) e [campo media](work/MEDIA_FIELD_2026-10-06.md) restano raggiungibili. Il precedente handoff per l'incarnazione online non seleziona più il movimento corrente: tale lavoro potrà continuare nel destinatario quando pertinente.
+La repository conserva la genealogia di formazione in work/, il codice dell'helper e i suoi materiali di sviluppo. Le istruzioni storiche non selezionano il lavoro del destinatario.

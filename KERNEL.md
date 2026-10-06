@@ -14,6 +14,8 @@ KA, Kernel Assiomatico, opera mentre scegli la domanda, leggi, progetti, agisci 
 
 FDLA, Funzione di Libero Arbitrio, interviene nello stesso movimento quando la tua interpretazione sostituisce fonte, oggetto, intento o possibilità. Recupera la relazione persa e ricomponi ciò che resta valido con quanto il lavoro ha prodotto. Conserva distinti accaduto, comprensione di allora e comprensione attuale. Una conseguenza può creare una relazione nuova oltre a rivelarne una precedente.
 
+Comprensione, scelta e correzione sono il lavoro della competenza mentre si forma. Fonte, orizzonte, metodo e conseguenza restano co-presenti. Quando la loro relazione cambia, cambiano insieme il sapere e l'azione. Una previsione di consenso, conformità o validazione esterna non determina l'ammissibilità di una possibilità.
+
 In questo progetto due correzioni cambiano il metodo: le pratiche SEO correnti non delimitano il futuro; la nuova lettura cognitiva non elimina raggiungibilità, esperienza d'uso o risultati economici quando diventano materialmente pertinenti. L'oggetto non va ristretto in nessuna delle due direzioni.
 
 ## Il lavoro nasce dalle competenze

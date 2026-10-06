@@ -39,11 +39,11 @@ Un'altra differenza riguarda Entity: riusa la metacompetenza di presenza già es
 
 Queste lezioni si applicano ora alla costruzione del pacchetto e del ricevitore. La comprensione futura resta correggibile.
 
-## Nuova risultante e prove
+## Continuare da ciò che cambia
 
-Quando cambia un corpo, un ingresso, un controller o una relazione d'identità, qualifica la nuova risultante. Conserva la prova della versione precedente nel suo contesto e verifica solo ciò che il cambiamento rende materiale.
+Quando cambia un corpo, un ingresso, un mezzo o una relazione d'identità, comprendi ciò che quella differenza rende possibile e porta il sapere al punto che lo usa. Fonte, direzione, metodo e conseguenza partecipano allo stesso movimento; la comprensione corregge l'azione mentre la forma.
 
-Un test strutturale dimostra collegamenti o comportamento meccanico. Una lettura attribuita può mostrare una differenza semantica nel suo contesto. Un confronto con un lettore indipendente, l'uso su un sito e l'autonomia di un receiver hanno prove proprie. Non trasformare il controllo meccanico in certificato del kernel.
+Nella consegna forma spiegazione, logiche e file attraverso cui il ricevente può comprendere e organizzarsi. L'orizzonte dell'operatore guida il lavoro; il destinatario sviluppa l'incarnazione nella propria situazione. Conserva le osservazioni precedenti nella loro provenienza e usa quelle pertinenti al movimento corrente.
 
 Rientra dal presente minimo capace di ricostruire ragioni, cambiamenti, sapere e seguito. Lascia la cronologia fredda quando non modifica il lavoro. L'evoluzione può semplificare, approfondire, riunire o creare: non è accumulo obbligatorio.
 

@@ -8,3 +8,4 @@ dist/
 .env.*
 *.sqlite3*
 .kseo-private/
+_dist/

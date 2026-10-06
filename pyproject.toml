@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "kseo-local-reference"
 version = "0.1.0.dev0"
 description = "Local reference receiver for K-SEO cognitive source work"
+license = {file = "LICENSE"}
 requires-python = ">=3.11"
 dependencies = []
 

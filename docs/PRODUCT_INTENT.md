@@ -30,8 +30,8 @@ Il sapere iniziale deve quindi spiegare come comprendere, acquisire, comporre, c
 
 Social Kernel può essere abbinato per il campo pubblico. Editoriali e Business Manager pubblici sono prodotti in lavorazione, con i quali K-SEO dovrà poter collaborare. Le loro identità, i loro stati e le loro evoluzioni restano distinti. K-SEO conserva capacità di base utilizzabili anche quando un prodotto fratello non è installato.
 
-## Il candidato costruito e il seguito
+## Il prodotto consegnato e il seguito
 
-Il candidato attuale forma il pacchetto persistente e un ricevitore locale per esercitare fonti, letture attribuite, interventi testuali, verifica e apprendimento. Le prove sono in [CURRENT](../CURRENT.md). Il primo ciclo autonomo su un sito online rimane da incarnare tramite un ambiente reale, un sito selezionato e i suoi accessi.
+Il prodotto consegna il pacchetto persistente, il sapere delle competenze e un helper locale facoltativo. [CURRENT](../CURRENT.md) raggiunge la sua forma corrente. Il ricevente comprende il contesto e organizza la propria incarnazione, componendo le capacità disponibili e sviluppando quelle utili al lavoro.
 
-Il lavoro social previsto trasformerà questi concetti in infografiche promozionali: immagini capaci di far comprendere il valore di K-SEO, non diagrammi obbligatori della sua tassonomia interna. [Il campo media](../work/MEDIA_FIELD_2026-10-06.md) conserva i nuclei da sviluppare.
+La presentazione può esprimere questi concetti anche attraverso immagini e infografiche che fanno comprendere il valore di K-SEO. [La scheda prodotto](PRODUCT_CARD.md) conserva l'ingresso italiano e inglese da collegare alla distribuzione.

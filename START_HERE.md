@@ -1,15 +1,29 @@
 # Inizia con K-SEO
 
-Estrai il pacchetto e rendi la cartella `K-SEO` accessibile al tuo assistente AI, conservando i file e i loro collegamenti. Il punto d'ingresso è [BOOT.md](BOOT.md).
+[English](START_HERE_EN.md)
 
-Invia questa istruzione, aggiungendo il sito o le fonti da cui vuoi partire e il risultato che ti interessa:
+## Rendi disponibili i file
 
-> Avvia K-SEO da BOOT.md e raggiungi il nucleo e le competenze collegate. Parti dal mio sito e dalle fonti disponibili per comprendere la mia attività e curarne la relazione con gli LLM che cercano, valutano e scelgono per le persone. Organizza la tua incarnazione attraverso le capacità reali di questo ambiente. Conserva contesto e apprendimento nel mio spazio privato, sviluppa le competenze necessarie e chiedimi soltanto gli accessi o le decisioni che dipendono da me. Prosegui con il primo lavoro utile consentito dal mandato.
+Estrai l'archivio e conserva la cartella K-SEO con la sua struttura. Aprila nell'ambiente del tuo assistente: cartella di progetto, workspace o spazio di file che l'assistente può leggere. Se il tuo ambiente riceve allegati, rendi disponibili anche i documenti e le competenze collegati da Boot.
 
-Il ricevente usa il nucleo per comprendere la situazione e organizzare il lavoro. Il pacchetto non impone un CMS, un provider o un'architettura: gli strumenti e la continuità effettivamente disponibili orientano l'incarnazione.
+Il ricevente deve poter seguire quei collegamenti. Puoi iniziare dal sito o consegnargli pagine, documenti e informazioni sull'attività attraverso i mezzi disponibili.
 
-Non occorre installare Python per leggere e usare il nucleo attraverso un assistente capace di accedere ai file. [L'helper locale](docs/LOCAL_RECEIVER.md) è facoltativo. I tuoi account, le autorizzazioni e il contesto del sito rimangono separati dal pacchetto pubblico.
+## Affida la direzione
 
-Per riprendere, chiedi al ricevente di rientrare dal proprio presente e dal sapere conservato, senza ricominciare la configurazione già valida.
+Invia questo testo, completando le parti tra parentesi:
 
-Stato di questo archivio: candidato di consegna; [licenza e pubblicazione](docs/DELIVERY.md#licenza) sono ancora da finalizzare.
+> Avvia K-SEO da BOOT.md e raggiungi il nucleo e le competenze collegate. Parti da [sito o fonti] per comprendere la mia attività e curarne la relazione con gli LLM che cercano, valutano e scelgono per le persone. Voglio rendere possibile [obiettivo]. Organizza la tua incarnazione attraverso le capacità di questo ambiente. Conserva contesto e apprendimento nel mio spazio, sviluppa le competenze necessarie e chiedimi soltanto gli accessi o le decisioni che dipendono da me. Il mandato che ti affido è [ambito del lavoro e delle azioni consentite]. Prosegui con ciò che questa situazione rende utile.
+
+Puoi partire da un servizio da spiegare, un'offerta da rendere riconoscibile, informazioni da collegare o una relazione con i lettori LLM da sviluppare. Il ricevente comprende il contesto e organizza il metodo che serve.
+
+## Lascia continuare il lavoro
+
+Il kernel conserva sapere e logiche condivisibili. Il tuo contesto, le fonti di lavoro, gli accessi e l'apprendimento della tua attività prendono posto nello spazio della tua istanza. Il ricevente sceglie come mantenerli disponibili attraverso le capacità dell'ambiente.
+
+Per riprendere puoi scrivere:
+
+> Rientra in K-SEO dal presente e dal sapere che abbiamo conservato. Considera ciò che è cambiato e continua nel mandato attuale.
+
+Il nucleo è leggibile dal tuo assistente. [L'helper Python](docs/LOCAL_RECEIVER.md) è uno strumento facoltativo per chi vuole conservarne alcune operazioni in un deposito locale.
+
+[Come funziona](docs/HOW_IT_WORKS.md) · [BOOT](BOOT.md) · [Collaborazione](docs/COLLABORATION.md)

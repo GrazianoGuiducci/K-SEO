@@ -12,7 +12,7 @@ Questa è una mappa di accesso, non uno stack. Boot e [nucleo](KERNEL.md) manten
 | Preparare il nucleo per un ricevente e una distribuzione pubblica | [Consegna del prodotto](docs/DELIVERY.md), raggiunta da formazione ed evoluzione | AI Product Architect + Present GitHub Product + Editoriali; distinguere consegna del nucleo e incarnazione nel destinatario |
 | Necessità di un contributo esterno | [Collaborazione](docs/COLLABORATION.md) | Owner di dominio e prodotto fratello, senza trasferimento di proprietà |
 
-Le nove funzioni del quadro pre-rifondazione rimangono coperte: Source/Entity Understanding, Synthetic Cognitive Relation e Cognitive Presentation partecipano nella relazione cognitiva; Semantic Evidence/Provenance, Distributed Source Field e Retrieval/Reachability nelle evidenze, in composizione con la relazione cognitiva; Agentic Usability e Intervention/Effect nell'intervento; Consequence/Learning attraversa i corpi agenti e l'evoluzione. Non sono state create nove competenze nominali prive di metodo.
+I corpi comprendono ciò che il lavoro rende pertinente: identità e valore della fonte, lettura cognitiva, espressione, raggiungibilità, intervento e apprendimento. Le funzioni possono partecipare insieme e cambiare la propria organizzazione attraverso il lavoro del ricevente.
 
 La conoscenza essenziale è locale. Le sorgenti condivise sono approfondimenti e genealogia, non prerequisiti privati. La [mappa di riuso](docs/REUSE_MAP.md) distingue gli owner già esistenti dalle nuove specializzazioni e dai mezzi ancora da implementare.
 

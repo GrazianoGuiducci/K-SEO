@@ -2,28 +2,49 @@
 
 **Prepara il tuo sito per le intelligenze che cercano, valutano e scelgono per noi.**
 
-K-SEO è un kernel da consegnare al tuo assistente AI. Gli fornisce il sapere e il metodo per comprendere la tua attività, rendere riconoscibile ciò che offri e curare le informazioni attraverso cui gli LLM formano risposte, consigli e azioni per le persone.
+[Scarica K-SEO](https://github.com/GrazianoGuiducci/K-SEO/releases) · [English](README_EN.md) · [Inizia qui](START_HERE.md) · [Come funziona](docs/HOW_IT_WORKS.md)
 
-Il lavoro parte dai siti e segue le fonti pertinenti: documentazione, piattaforme, cataloghi, articoli, repository e altre forme che emergeranno. Il centro è la relazione con un'entità cognitiva sintetica capace di leggere, comprendere, confrontare e valutare.
+Una persona affida una domanda al proprio assistente AI. L'assistente cerca informazioni, confronta offerte e sceglie quali fonti usare per rispondere. Che cosa riesce a comprendere della tua attività? Trova ciò che la rende pertinente a quel bisogno?
 
-## Inizia dal nucleo
+K-SEO fornisce al tuo assistente un nucleo di conoscenza e logiche operative per curare questa relazione. Parte dal sito, comprende attività e offerta e lavora sulle informazioni attraverso cui un LLM può riconoscerle, valutarle e consigliarle. Documentazione, cataloghi, articoli, repository e altre superfici partecipano quando aiutano il lavoro.
 
-Rendi la cartella del pacchetto accessibile al tuo assistente e segui [Inizia qui](START_HERE.md). L'istruzione di avvio lo porta a [BOOT](BOOT.md), al nucleo e alle competenze.
+## Che cosa rende possibile
 
-Il ricevente organizza la propria incarnazione attraverso le capacità del suo ambiente: comprende le fonti disponibili, configura ciò che può, acquisisce o forma il sapere necessario e conserva il seguito nel tuo spazio privato. Gli accessi e le decisioni che dipendono da te restano riconoscibili.
+- **Un'offerta comprensibile:** descrizioni, differenze, condizioni ed esempi che permettono di capire quando ciò che offri è utile.
+- **Fonti collegate:** informazioni coerenti e raggiungibili attraverso pagine, documenti e superfici pertinenti.
+- **Un lavoro che continua:** contesto, ragioni e apprendimento conservati per riprendere e migliorare nel tempo.
+- **Nuove capacità:** il ricevente acquisisce sapere, compone competenze e forma gli strumenti utili nella propria situazione.
 
-## Che cosa ricevi
+Il centro del prodotto è il futuro della ricerca affidata a entità cognitive sintetiche. Le pratiche e i mezzi disponibili oggi partecipano a questo sviluppo, mentre il kernel mantiene aperte le possibilità che emergeranno.
 
-Boot, logiche del kernel, competenze operative, formazione di nuove capacità, continuità, presenza e collaborazione. È un pacchetto persistente: il lavoro può cambiare ciò che il kernel sa fare e il modo in cui continuerà. La prima organizzazione lascia spazio alle capacità e alle superfici future.
+## Inizia
 
-Il nucleo è leggibile senza Python. Il [ricevitore Python locale](docs/LOCAL_RECEIVER.md), incluso come strumento facoltativo, conserva fonti e letture, prepara modifiche testuali confermate e ne mantiene verifica e apprendimento. Il ricevente può usarlo, adattarlo o lavorare attraverso altri mezzi sufficienti.
+Rendi la cartella K-SEO accessibile al tuo assistente AI e invia:
 
-## Prodotti che possono lavorare insieme
+> Avvia K-SEO da BOOT.md. Parti da [sito o fonti] per comprendere la mia attività e curarne la relazione con gli LLM che cercano, valutano e scelgono per le persone. Il risultato che voglio rendere possibile è [obiettivo]. Organizza il lavoro attraverso le capacità di questo ambiente, conserva contesto e apprendimento nel mio spazio e prosegui nel mandato che ti ho affidato.
 
-K-SEO può comporsi con Social Kernel per il campo pubblico, Editoriali per la scrittura, Business Manager per priorità e valore, Design per la forma percettiva. Ogni prodotto mantiene identità, sapere e responsabilità propri. Editoriali e Business Manager pubblici sono in preparazione; il nucleo K-SEO contiene il sapere essenziale senza richiedere repository privati.
+[Inizia qui](START_HERE.md) spiega come rendere disponibili i file, fornire il contesto e riprendere il lavoro. Il nucleo è leggibile da un assistente che può raggiungere i file collegati. Per un lavoro continuativo, il ricevente organizza anche la persistenza attraverso i mezzi disponibili.
 
-[Intento](docs/PRODUCT_INTENT.md) · [Nucleo](KERNEL.md) · [Competenze](COMPETENCES.md) · [Collaborazione](docs/COLLABORATION.md) · [Fonti](docs/SOURCES.md)
+## Che cosa contiene il pacchetto
 
-## Stato della consegna
+| File e sapere | Funzione |
+| --- | --- |
+| [BOOT](BOOT.md) | Ingresso del ricevente e comprensione del contesto |
+| [KERNEL](KERNEL.md) | Direzione, logiche di comprensione, iniziativa e continuità |
+| [COMPETENCES](COMPETENCES.md) e skills/ | Relazione cognitiva, fonti, interventi, formazione e apprendimento |
+| [Guide](docs/HOW_IT_WORKS.md) | Uso, presenza, collaborazione e conoscenza del prodotto |
+| [Helper locale](docs/LOCAL_RECEIVER.md) | Strumento Python facoltativo per conservare fonti, letture, proposte e apprendimenti |
 
-Il nucleo è preparato per il ricevente. Questa distribuzione è ancora un candidato: la licenza e l'integrazione della sorgente pubblica finale restano da chiudere. [Consegna del prodotto](docs/DELIVERY.md) distingue pacchetto, incarnazione nel destinatario e rilascio. Non viene consegnato un servizio hosted già collegato agli account del proprietario.
+Il ricevente comprende la situazione e organizza l'incarnazione adatta al proprio ambiente: strumenti, accessi, memoria e modalità di lavoro. Può usare l'helper incluso, adattarlo o comporre altri mezzi.
+
+## Crescere insieme ad altri kernel
+
+K-SEO può comporsi con Social Kernel per il campo pubblico, Editoriali per la scrittura, Business Manager per priorità e valore e Design per la forma percettiva. [La collaborazione](docs/COLLABORATION.md) parte da una domanda e da un contributo concreto, conservando l'identità di ogni prodotto. Editoriali e Business Manager pubblici sono in preparazione; il sapere essenziale di K-SEO è contenuto nel pacchetto.
+
+## Progetto e distribuzione
+
+K-SEO è un prodotto MAIOS di Graziano Guiducci. Il [manifest](KERNEL_MANIFEST.json) identifica il nucleo; la [guida di consegna](docs/DELIVERY.md) descrive il pacchetto e la sua continuità. La repository conserva anche il materiale di sviluppo; l'archivio d'uso contiene i file selezionati per il ricevente.
+
+Distribuito con [Apache-2.0](LICENSE). [Proprietà e attribuzione](docs/RIGHTS.md) collegano la distribuzione alle sue sorgenti.
+
+[Intento](docs/PRODUCT_INTENT.md) · [Fonti](docs/SOURCES.md) · [Contribuire](CONTRIBUTING.md) · [Segnalare un problema](https://github.com/GrazianoGuiducci/K-SEO/issues)
