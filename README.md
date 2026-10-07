@@ -37,6 +37,8 @@ Rendi la cartella K-SEO accessibile al tuo assistente AI e invia:
 
 Il ricevente comprende la situazione e organizza l'incarnazione adatta al proprio ambiente: strumenti, accessi, memoria e modalità di lavoro. Può usare l'helper incluso, adattarlo o comporre altri mezzi.
 
+[Collegare fonti, strumenti e risultati](docs/INTEGRATIONS.md) spiega come usare i mezzi disponibili per acquisire dati, mantenere i fatti dell'attività, comprendere opportunità e curare le rappresentazioni pubbliche. Il lavoro apprende dalle conseguenze utili al tuo progetto.
+
 ## Crescere insieme ad altri kernel
 
 K-SEO può comporsi con Social Kernel per il campo pubblico, Editoriali per la scrittura, Business Manager per priorità e valore e Design per la forma percettiva. [La collaborazione](docs/COLLABORATION.md) parte da una domanda e da un contributo concreto, conservando l'identità di ogni prodotto. Editoriali e Business Manager pubblici sono in preparazione; il sapere essenziale di K-SEO è contenuto nel pacchetto.

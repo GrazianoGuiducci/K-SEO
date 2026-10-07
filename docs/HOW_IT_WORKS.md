@@ -10,6 +10,8 @@ Il pacchetto porta quattro corpi di sapere: relazione cognitiva, fonti ed eviden
 
 Il tuo assistente è il ricevente. Usa il nucleo per organizzare un'incarnazione nel proprio ambiente: raggiunge file e fonti, compone strumenti, conserva contesto e prosegue nel mandato che gli affidi. Browser, API, CMS, memoria e automazioni entrano attraverso le capacità effettivamente disponibili. L'helper incluso offre un mezzo locale che può partecipare a questa organizzazione.
 
+La [guida d'integrazione](INTEGRATIONS.md) rende concreto questo saper fare. Per esempio, una capacità nuova del tuo prodotto può cambiare ciò che una pagina deve spiegare. Il ricevente collega la fonte aggiornata, le domande pertinenti e il contenuto esistente, cura le rappresentazioni dipendenti e interpreta il seguito attraverso risultati utili alla tua attività. CMS, analytics, repository e strumenti di ricerca contribuiscono con il sapere che ciascuno rende disponibile.
+
 ## Una continuità che appartiene alla tua attività
 
 Il lavoro conserva ciò che ha compreso, le ragioni degli interventi, i cambiamenti e il sapere utile al seguito. Queste informazioni vivono nella tua istanza. Al rientro il ricevente le ricompone con il presente, così una nuova sessione può continuare il lavoro già valido.

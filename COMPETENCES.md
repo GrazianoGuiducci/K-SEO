@@ -16,4 +16,6 @@ I corpi comprendono ciò che il lavoro rende pertinente: identità e valore dell
 
 La conoscenza essenziale è locale. Le sorgenti condivise sono approfondimenti e genealogia, non prerequisiti privati. La [mappa di riuso](docs/REUSE_MAP.md) distingue gli owner già esistenti dalle nuove specializzazioni e dai mezzi ancora da implementare.
 
+Il [sapere d'integrazione](docs/INTEGRATIONS.md), anche [in inglese](docs/INTEGRATIONS_EN.md), collega acquisizione, catalogo dei fatti, opportunità, rappresentazioni ed effetti alle competenze sopra. Gli esempi aiutano il ricevente a comporre CMS, repository, analytics, strumenti dei provider o altri mezzi disponibili, e a sviluppare gli adattamenti che la sua attività rende utili.
+
 Una superficie nuova entra dal suo oggetto: cosa deve essere compreso o trasformato, quale conoscenza può cambiare la domanda, quali mezzi e autorità sono reali. Il kernel può formare un nuovo adattamento o un'altra competenza quando questa composizione non è sufficiente.

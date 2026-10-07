@@ -27,6 +27,8 @@ Make the K-SEO folder available to your AI assistant and send:
 
 A local Python helper is included as an optional means to store sources, attributed readings, proposals and learning. Python is needed only when using that helper.
 
+[Connecting sources, tools and outcomes](docs/INTEGRATIONS_EN.md) explains how to compose available capabilities to acquire data, maintain facts about your activity, understand opportunities and care for public representations. The work learns from outcomes that matter to your project.
+
 ## Collaboration and development
 
 K-SEO can compose contributions from Social Kernel, Editoriali, Business Manager and Design while preserving each product's identity. The public Editoriali and Business Manager products are in preparation; K-SEO includes its essential knowledge locally.

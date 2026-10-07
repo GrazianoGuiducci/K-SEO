@@ -21,14 +21,20 @@ Nel ricevitore locale, la proposta conserva testo prima/dopo e digest del cambia
 
 Il digest è una conferma del cambiamento preciso, non un sistema di autenticazione. Nessun permesso di rete o pubblicazione è creato dal comando locale.
 
+Quando una fonte alimenta pagine, documentazione, sitemap, dati strutturati o materiali per altri sistemi, comprendi i consumer e raggiungi le rappresentazioni che devono cambiare. Il metodo corrente di ciascun provider determina il mezzo pertinente. Un formato o una notifica vengono usati per la funzione realmente raggiunta; il [sapere d'integrazione](../../docs/INTEGRATIONS.md) collega questi effetti alle rispettive fonti.
+
 ## Risultato e recupero
 
 Una modifica locale, un commit, una pubblicazione e una nuova lettura sono eventi diversi. Il readback verifica l'identità dell'oggetto effettivamente cambiato. Per un sito deve passare anche dal percorso reale di deploy e dalla superficie online.
 
 Se l'effetto potrebbe essere avvenuto ma manca la ricevuta, osserva prima di ripetere. La verifica locale può riconoscere il contenuto già applicato e ricomporre una ricevuta pendente. Un lock rimasto dopo un crash richiede ispezione del suo proprietario: non rimuoverlo per supposizione.
 
+In un CMS conserva identità dell'oggetto, revisione e stato editoriale: bozza e pubblicazione hanno eventi propri. Se una chiamata riesce sul servizio ma fallisce la registrazione locale, riconcilia l'oggetto esterno prima di rimettere in coda la creazione. Usa chiavi d'idempotenza o revisioni condizionali quando il controller le offre. Un claim atomico locale governa la coda partecipante, senza rendere atomico l'effetto esterno.
+
 La proposta conserva il testo precedente per il recupero. Per ripristinarlo dopo un cambiamento successivo, forma una nuova proposta dal presente; non sovrascrivere modifiche intervenute usando un vecchio rollback.
 
 ## Conseguenze
 
-La verifica immediata dimostra lo stato del sorgente. Lettura, scoperta, raccomandazione, azione dell'agente e risultato dell'attività richiedono le rispettive osservazioni. Una conseguenza può cambiare l'intervento e la competenza che lo ha formato. Ritorna al motivo della differenza prima di moltiplicare i controlli.
+La verifica immediata descrive lo stato dell'oggetto che ha realmente raggiunto. Lettura, scoperta, raccomandazione, azione dell'agente e risultato dell'attività richiedono le rispettive osservazioni. Una conseguenza può cambiare l'intervento e la competenza che lo ha formato. Ritorna al motivo della differenza prima di moltiplicare i controlli.
+
+Nel lavoro continuativo, il ricevente organizza persistenza, frequenza e programmazione secondo mandato, risorse e cambiamenti che possono rendere utile un intervento. Al rientro raggiunge novità del sito, lavoro aperto, effetti incerti e contributi concorrenti. Una superficie occupata può lasciare continuare altri movimenti indipendenti.

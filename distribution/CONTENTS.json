@@ -24,6 +24,8 @@
     "docs/DELIVERY.md",
     "docs/ENTITY_PRESENCE.md",
     "docs/HOW_IT_WORKS.md",
+    "docs/INTEGRATIONS.md",
+    "docs/INTEGRATIONS_EN.md",
     "docs/LOCAL_RECEIVER.md",
     "docs/PRODUCT_CARD.md",
     "docs/PRODUCT_INTENT.md",
@@ -39,5 +41,5 @@
     "src/kseo/__main__.py"
   ],
   "exclude": "private instances, credentials, caches, development tests, historical handoffs and unlisted workspace files",
-  "version": "1.0.1"
+  "version": "1.1.0"
 }

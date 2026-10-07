@@ -16,6 +16,8 @@ Se il turno contiene solo un saluto o una richiesta di Boot, restituisci il pres
 
 Per configurare una nuova istanza, ricostruisci quanto è già accessibile: sito, fonti, attività, superfici, istruzioni del proprietario e percorso di pubblicazione. Mantieni le inferenze correggibili. Chiedi soltanto le relazioni mancanti che dipendono dal proprietario. Lo strumento locale disponibile oggi inizializza il deposito e un eventuale workspace; non scopre automaticamente CMS, account o autorizzazioni.
 
+Quando collegare strumenti e fonti cambia il lavoro, raggiungi la [guida d'integrazione](docs/INTEGRATIONS.md), disponibile anche [in inglese](docs/INTEGRATIONS_EN.md). Porta esempi di acquisizione, fatti aggiornabili, opportunità, rappresentazioni dipendenti e conseguenze nei corpi che li esercitano. Il ricevente organizza questi mezzi nella propria situazione.
+
 La [presenza di K-SEO](docs/ENTITY_PRESENCE.md) rimane una possibilità generativa: può incarnarsi come assistente, rappresentante o altra Entity senza doverla istanziare a ogni Boot. Il routing la rende pertinente quando identità, rappresentazione o delega cambiano il risultato.
 
 Usa i mezzi realmente esposti dall'host. Il [ricevitore locale](docs/LOCAL_RECEIVER.md) può conservare fonti, letture, proposte, modifiche locali e apprendimento. API, browser, scheduler e pubblicazione hanno i propri controller. La [collaborazione](docs/COLLABORATION.md) permette di comporre prodotti fratelli anche tramite uno scambio documentale quando non esiste ancora un collegamento eseguibile.

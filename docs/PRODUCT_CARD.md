@@ -6,6 +6,8 @@
 
 Affida al tuo assistente AI un kernel per comprendere la tua attività e curare le informazioni attraverso cui gli LLM la riconoscono, la confrontano e possono consigliarla alle persone. K-SEO porta logiche operative, competenze e continuità: il ricevente organizza il lavoro nel proprio ambiente e sviluppa le capacità che servono. Il lavoro parte dal sito e segue documentazione, cataloghi e altre superfici pertinenti.
 
+Il sapere d'integrazione aiuta a collegare fonti, strumenti disponibili e risultati utili. Un cambiamento dell'offerta può raggiungere pagine e documenti; query, percorsi e conseguenze aiutano a comprendere dove intervenire e cosa affinare nel seguito.
+
 **Azione:** Scarica K-SEO. **Avvio:** Inizia qui.
 
 ## English
@@ -13,6 +15,8 @@ Affida al tuo assistente AI un kernel per comprendere la tua attività e curare 
 **K-SEO — Prepare your website for the intelligences that search, evaluate and choose on our behalf.**
 
 Give your AI assistant a kernel for understanding your activity and caring for the information through which LLMs recognize, compare and recommend it to people. K-SEO brings operating logic, competences and continuity. The receiving assistant organizes the work in its own environment and develops the capabilities it needs, starting with your website and following relevant documentation, catalogues and other surfaces.
+
+Its integration knowledge helps connect sources, available tools and useful outcomes. A changed offer can reach pages and documents; queries, paths and consequences help identify useful interventions and inform the work that follows.
 
 **Action:** Download K-SEO. **Entry:** Start here.
 

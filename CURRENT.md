@@ -1,6 +1,6 @@
 # K-SEO — presente del prodotto
 
-Versione del nucleo: **1.0.1**. Direzione: **LLM-first**.
+Versione del nucleo: **1.1.0**. Direzione: **LLM-first**.
 
 K-SEO consegna Boot, logiche, competenze, formazione, continuità, presenza e collaborazione. L'entità ricevente li usa per comprendere la situazione e organizzare la propria incarnazione attraverso le capacità del suo ambiente.
 
@@ -12,8 +12,10 @@ Prepariamo le possibilità attraverso spiegazione, logiche e file del kernel. Co
 
 Il presente di un sito, gli accessi e l'apprendimento locale appartengono all'istanza del destinatario. Questo documento conserva il prodotto condiviso; al rientro il ricevente raggiunge il presente della propria attività.
 
+Il [sapere d'integrazione](docs/INTEGRATIONS.md), disponibile anche [in inglese](docs/INTEGRATIONS_EN.md), collega le competenze a esempi di acquisizione, catalogo dei fatti, opportunità, conseguenze, rappresentazioni dipendenti e ripresa degli effetti. CMS, analytics, strumenti dei provider e altri mezzi vengono composti o sviluppati dal ricevente nel proprio ambiente. Le fonti mantengono la genealogia del contributo e le correzioni tecniche pertinenti.
+
 ## Consegna e sviluppo
 
-La distribuzione include l'ingresso italiano e inglese, la documentazione e il pacchetto selezionato. Usa Apache-2.0; NOTICE e la guida delle sorgenti rendono riconoscibili il riuso aperto delle logiche e l'attribuzione. La versione 1.0.1 chiarisce la relazione con le sorgenti ad accesso controllato. [DELIVERY](docs/DELIVERY.md) conserva il metodo di consegna e [CONTENTS](distribution/CONTENTS.json) identifica i file da distribuire.
+La distribuzione include l'ingresso italiano e inglese, la documentazione e il pacchetto selezionato. Usa Apache-2.0; NOTICE e la guida delle sorgenti rendono riconoscibili il riuso aperto delle logiche e l'attribuzione. La versione 1.1.0 amplia il sapere operativo e gli esempi locali conservando la relazione con le sorgenti ad accesso controllato. [DELIVERY](docs/DELIVERY.md) conserva il metodo di consegna e [CONTENTS](distribution/CONTENTS.json) identifica i file da distribuire.
 
 La repository conserva la genealogia di formazione in work/, il codice dell'helper e i suoi materiali di sviluppo. Le istruzioni storiche non selezionano il lavoro del destinatario.

@@ -1,6 +1,6 @@
 {
   "schema": "kseo.package/1",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "status": "receiver_kernel",
   "entry": "BOOT.md",
   "kernel": "KERNEL.md",
@@ -31,5 +31,7 @@
   "notice": "NOTICE",
   "rights_guide": "docs/RIGHTS.md",
   "readme_english": "README_EN.md",
-  "start_here_english": "START_HERE_EN.md"
+  "start_here_english": "START_HERE_EN.md",
+  "integration_guide": "docs/INTEGRATIONS.md",
+  "integration_guide_english": "docs/INTEGRATIONS_EN.md"
 }

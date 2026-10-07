@@ -15,11 +15,17 @@ La raggiungibilità tecnica è una capacità della relazione, non la definizione
 
 Una stringa user-agent non basta a identificare chi ha fatto la richiesta. Conserva i mezzi di verifica pubblicati dal fornitore e ciò che puoi realmente osservare. I controlli diagnostici del kernel possono comparire nei log: etichettali quando l'ambiente lo permette, senza assumere che ogni piattaforma elimini quel traffico.
 
+Un adattamento raggiunge autenticazione, paginazione, campi, periodo, fuso e risposte d'errore del servizio. Riconosci la copertura effettiva prima di interpretare i risultati. Una fonte descrive il prodotto, un'altra ne osserva l'uso: il [sapere d'integrazione](../../docs/INTEGRATIONS.md) rende operabile la loro composizione con CMS, repository, analytics, provider ed export già disponibili.
+
 ## Significato delle misure
 
 Un valore mancante non è zero. Una richiesta non è una persona, un'impressione non è un clic, una citazione non è una raccomandazione, una visita non è una vendita. Anche rapporti con lo stesso nome possono avere denominatori diversi.
 
 Mantieni fonte, periodo, unità, ambito pagina/query/task e copertura. Mostra l'incertezza dovuta al campionamento o all'accesso incompleto. Un confronto prima/dopo orienta il seguito insieme ai cambiamenti di contesto; non attribuisce da solo una causa.
+
+Quando aggiorni misure provenienti da raccolte diverse, conserva la finestra e lo stato di ciascuna. Sostituisci soltanto i valori effettivamente osservati; un intervallo coperto da una fonte non rende zero quello non coperto da un'altra. Una revisione del provider può correggere anche verso il basso: conservare soltanto il massimo perde quel cambiamento. Mantieni distinguibili raccolta riuscita, copertura parziale, errore e accesso non disponibile.
+
+Referrer e UTM indicano provenienze osservabili delle visite. Una citazione richiede una risposta o una misura del provider che osservi quel fenomeno; una raccomandazione ha ancora un significato diverso. Conserva il valore originale quando classifichi: le regole delle identità specifiche precedono quelle della famiglia generale. Le somme di identità distinte per giorno o provenienza possono ripetere la stessa identità nel periodo.
 
 Nel ricevitore locale una snapshot conserva URI dichiarato, testo e digest. Non è una verifica live di quell'URI. Una risposta importata conserva l'attribuzione dichiarata; un riferimento valido non ne certifica l'interpretazione. Il contratto mantiene queste differenze visibili anziché trasformare il salvataggio in prova.
 

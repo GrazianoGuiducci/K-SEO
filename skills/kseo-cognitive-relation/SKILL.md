@@ -21,6 +21,10 @@ Una restituzione può mostrare riconoscimento corretto, omissione, conflitto, gi
 
 Quando la fonte è distribuita, comprendi anche versioni, autori e scopi delle diverse espressioni. Due enunciati differenti possono essere entrambi corretti in condizioni diverse. Non eliminare una differenza prima di averne compreso il significato.
 
+Il ricevente può collegare un catalogo aggiornabile di fatti alle sorgenti dell'attività: capacità, offerta, condizioni, esempi e collegamenti mantengono origine e revisione. Lo usa per comprendere e scrivere, e raggiunge le rappresentazioni dipendenti quando un fatto cambia. Un catalogo dichiarato rende disponibile una fonte; la sua attualità resta nella relazione con l'owner.
+
+Una query osservata si comprende insieme alle pagine associate, al bisogno e all'offerta reale. Un titolo diverso può già rispondere bene; una novità può rendere utile un chiarimento, un collegamento, una funzione o un contenuto distinto. Combina ricerca, cambiamenti delle fonti e conseguenze osservabili per formare l'opportunità. [Gli esempi d'integrazione](../../docs/INTEGRATIONS.md) mostrano come organizzare questa relazione nel proprio ambiente.
+
 ## Trasformare la presentazione
 
 Forma la risultante che deve diventare possibile nel destinatario e risali alle premesse necessarie. Rendi riconoscibile il soggetto, esponi la relazione che crea valore, porta esempi o prove dove sostengono davvero l'argomento, conserva le condizioni utili alla scelta e il passo successivo disponibile.

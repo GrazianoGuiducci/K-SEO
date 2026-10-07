@@ -39,6 +39,10 @@ Un'altra differenza riguarda Entity: riusa la metacompetenza di presenza già es
 
 Queste lezioni si applicano ora alla costruzione del pacchetto e del ricevitore. La comprensione futura resta correggibile.
 
+La ricognizione di un altro prodotto ha reso raggiungibili esempi di acquisizione, opportunità, misurazione e pubblicazione. Il trasferimento utile comprende come e perché funzionano e porta quel sapere ai corpi che agiranno. Stack, quote editoriali, risultato economico e cadenza dell'esempio appartengono alla sua situazione. [La guida d'integrazione](../../docs/INTEGRATIONS.md) rende il saper fare componibile dal destinatario, con la genealogia conservata nelle fonti.
+
+Scegli le conseguenze pertinenti al progetto insieme al proprietario. Contatto, acquisto, download, uso o altro risultato hanno unità e significati propri. Nell'apprendimento considera periodo, esposizione, età delle pagine e cambiamenti del contesto; un'associazione osservata può orientare il seguito senza provare una causa. La conseguenza modifica l'owner che dovrà acquisire, comprendere o intervenire diversamente.
+
 ## Continuare da ciò che cambia
 
 Quando cambia un corpo, un ingresso, un mezzo o una relazione d'identità, comprendi ciò che quella differenza rende possibile e porta il sapere al punto che lo usa. Fonte, direzione, metodo e conseguenza partecipano allo stesso movimento; la comprensione corregge l'azione mentre la forma.
